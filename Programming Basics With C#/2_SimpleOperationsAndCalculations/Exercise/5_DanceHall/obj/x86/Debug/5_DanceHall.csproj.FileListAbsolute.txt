@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise05DanceHall/bin/Debug/Exercise05DanceHall.exe
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise05DanceHall/bin/Debug/Exercise05DanceHall.pdb
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise05DanceHall/obj/x86/Debug/5_DanceHall.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise05DanceHall/obj/x86/Debug/Exercise05DanceHall.exe
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise05DanceHall/obj/x86/Debug/Exercise05DanceHall.pdb

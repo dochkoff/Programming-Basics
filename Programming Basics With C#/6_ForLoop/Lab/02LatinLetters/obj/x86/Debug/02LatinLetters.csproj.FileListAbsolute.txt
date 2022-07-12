@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/06_ForLoop_101118/02LatinLetters/bin/Debug/02LatinLetters.exe
+/Users/Dochkoff/Projects/06_ForLoop_101118/02LatinLetters/bin/Debug/02LatinLetters.pdb
+/Users/Dochkoff/Projects/06_ForLoop_101118/02LatinLetters/obj/x86/Debug/02LatinLetters.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/06_ForLoop_101118/02LatinLetters/obj/x86/Debug/02LatinLetters.exe
+/Users/Dochkoff/Projects/06_ForLoop_101118/02LatinLetters/obj/x86/Debug/02LatinLetters.pdb

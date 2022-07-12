@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/07_NestedLoops_HW/02NumberPyramid/bin/Debug/02NumberPyramid.exe
+/Users/Dochkoff/Projects/07_NestedLoops_HW/02NumberPyramid/bin/Debug/02NumberPyramid.pdb
+/Users/Dochkoff/Projects/07_NestedLoops_HW/02NumberPyramid/obj/x86/Debug/02NumberPyramid.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/07_NestedLoops_HW/02NumberPyramid/obj/x86/Debug/02NumberPyramid.exe
+/Users/Dochkoff/Projects/07_NestedLoops_HW/02NumberPyramid/obj/x86/Debug/02NumberPyramid.pdb

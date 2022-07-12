@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise07AlcoholMarket/bin/Debug/Exercise07AlcoholMarket.exe
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise07AlcoholMarket/bin/Debug/Exercise07AlcoholMarket.pdb
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise07AlcoholMarket/obj/x86/Debug/7_AlcoholMarket.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise07AlcoholMarket/obj/x86/Debug/Exercise07AlcoholMarket.exe
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise07AlcoholMarket/obj/x86/Debug/Exercise07AlcoholMarket.pdb

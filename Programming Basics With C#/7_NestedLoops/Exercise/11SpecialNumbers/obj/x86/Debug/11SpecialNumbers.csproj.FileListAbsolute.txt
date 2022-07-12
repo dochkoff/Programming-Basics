@@ -1,0 +1,6 @@
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/11SpecialNumbers/bin/Debug/11SpecialNumbers.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/11SpecialNumbers/bin/Debug/11SpecialNumbers.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/11SpecialNumbers/obj/x86/Debug/11SpecialNumbers.csprojAssemblyReference.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/11SpecialNumbers/obj/x86/Debug/11SpecialNumbers.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/11SpecialNumbers/obj/x86/Debug/11SpecialNumbers.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/11SpecialNumbers/obj/x86/Debug/11SpecialNumbers.pdb

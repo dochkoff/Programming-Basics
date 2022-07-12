@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab3/bin/Debug/Lab3.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab3/bin/Debug/Lab3.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab3/obj/x86/Debug/Lab01ExcellentResult.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab3/obj/x86/Debug/Lab3.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab3/obj/x86/Debug/Lab3.pdb

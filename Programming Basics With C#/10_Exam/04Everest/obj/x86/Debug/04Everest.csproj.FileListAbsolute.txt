@@ -1,0 +1,6 @@
+/Users/Dochkoff/Projects/10_Exam_02122018/04Everest/bin/Debug/04Everest.exe
+/Users/Dochkoff/Projects/10_Exam_02122018/04Everest/bin/Debug/04Everest.pdb
+/Users/Dochkoff/Projects/10_Exam_02122018/04Everest/obj/x86/Debug/04Everest.csprojAssemblyReference.cache
+/Users/Dochkoff/Projects/10_Exam_02122018/04Everest/obj/x86/Debug/04Everest.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/10_Exam_02122018/04Everest/obj/x86/Debug/04Everest.exe
+/Users/Dochkoff/Projects/10_Exam_02122018/04Everest/obj/x86/Debug/04Everest.pdb

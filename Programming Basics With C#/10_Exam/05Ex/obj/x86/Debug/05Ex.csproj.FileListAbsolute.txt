@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/10_Exam_02122018/05Ex/bin/Debug/05Ex.exe
+/Users/Dochkoff/Projects/10_Exam_02122018/05Ex/bin/Debug/05Ex.pdb
+/Users/Dochkoff/Projects/10_Exam_02122018/05Ex/obj/x86/Debug/05Ex.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/10_Exam_02122018/05Ex/obj/x86/Debug/05Ex.exe
+/Users/Dochkoff/Projects/10_Exam_02122018/05Ex/obj/x86/Debug/05Ex.pdb

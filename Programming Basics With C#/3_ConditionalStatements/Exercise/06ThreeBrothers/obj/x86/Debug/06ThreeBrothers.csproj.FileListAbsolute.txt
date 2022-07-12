@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_HW/06ThreeBrothers/bin/Debug/06ThreeBrothers.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_HW/06ThreeBrothers/bin/Debug/06ThreeBrothers.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_HW/06ThreeBrothers/obj/x86/Debug/06ThreeBrothers.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_HW/06ThreeBrothers/obj/x86/Debug/06ThreeBrothers.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_HW/06ThreeBrothers/obj/x86/Debug/06ThreeBrothers.pdb

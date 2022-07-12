@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/06_ForLoop_101118/08VowelsSum/bin/Debug/08VowelsSum.exe
+/Users/Dochkoff/Projects/06_ForLoop_101118/08VowelsSum/bin/Debug/08VowelsSum.pdb
+/Users/Dochkoff/Projects/06_ForLoop_101118/08VowelsSum/obj/x86/Debug/08VowelsSum.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/06_ForLoop_101118/08VowelsSum/obj/x86/Debug/08VowelsSum.exe
+/Users/Dochkoff/Projects/06_ForLoop_101118/08VowelsSum/obj/x86/Debug/08VowelsSum.pdb

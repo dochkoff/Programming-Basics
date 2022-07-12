@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/02Cinema/bin/Debug/02Cinema.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/02Cinema/bin/Debug/02Cinema.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/02Cinema/obj/x86/Debug/02Cinema.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/02Cinema/obj/x86/Debug/02Cinema.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/02Cinema/obj/x86/Debug/02Cinema.pdb

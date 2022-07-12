@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/001Matrix/bin/Debug/001Matrix.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/001Matrix/bin/Debug/001Matrix.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/001Matrix/obj/x86/Debug/001Matrix.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/001Matrix/obj/x86/Debug/001Matrix.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/001Matrix/obj/x86/Debug/001Matrix.pdb

@@ -1,0 +1,6 @@
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/01StadiumIncome/bin/Debug/01StadiumIncome.exe
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/01StadiumIncome/bin/Debug/01StadiumIncome.pdb
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/01StadiumIncome/obj/x86/Debug/01StadiumIncome.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/01StadiumIncome/obj/x86/Debug/01StadiumIncome.exe
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/01StadiumIncome/obj/x86/Debug/01StadiumIncome.pdb
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/01StadiumIncome/obj/x86/Debug/01StadiumIncome.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+/Users/dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Exercise02USDtoBGN/bin/Debug/Exercise02USDtoBGN.exe
+/Users/dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Exercise02USDtoBGN/bin/Debug/Exercise02USDtoBGN.pdb
+/Users/dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Exercise02USDtoBGN/obj/x86/Debug/Exercise02USDtoBGN.csproj.CoreCompileInputs.cache
+/Users/dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Exercise02USDtoBGN/obj/x86/Debug/Exercise02USDtoBGN.exe
+/Users/dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Exercise02USDtoBGN/obj/x86/Debug/Exercise02USDtoBGN.pdb
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise02USDtoBGN/bin/Debug/Exercise02USDtoBGN.exe
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise02USDtoBGN/bin/Debug/Exercise02USDtoBGN.pdb
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise02USDtoBGN/obj/x86/Debug/Exercise02USDtoBGN.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise02USDtoBGN/obj/x86/Debug/Exercise02USDtoBGN.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise02USDtoBGN/obj/x86/Debug/Exercise02USDtoBGN.exe
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise02USDtoBGN/obj/x86/Debug/Exercise02USDtoBGN.pdb

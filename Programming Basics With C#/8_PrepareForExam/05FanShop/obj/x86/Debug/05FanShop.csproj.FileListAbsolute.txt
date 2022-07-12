@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/05FanShop/bin/Debug/05FanShop.exe
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/05FanShop/bin/Debug/05FanShop.pdb
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/05FanShop/obj/x86/Debug/05FanShop.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/05FanShop/obj/x86/Debug/05FanShop.exe
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/05FanShop/obj/x86/Debug/05FanShop.pdb

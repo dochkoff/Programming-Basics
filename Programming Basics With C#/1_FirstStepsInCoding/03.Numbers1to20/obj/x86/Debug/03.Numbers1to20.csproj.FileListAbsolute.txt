@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/03.Numbers1to20/bin/Debug/03.Numbers1to20.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/03.Numbers1to20/bin/Debug/03.Numbers1to20.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/03.Numbers1to20/obj/x86/Debug/03.Numbers1to20.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/03.Numbers1to20/obj/x86/Debug/03.Numbers1to20.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/03.Numbers1to20/obj/x86/Debug/03.Numbers1to20.pdb

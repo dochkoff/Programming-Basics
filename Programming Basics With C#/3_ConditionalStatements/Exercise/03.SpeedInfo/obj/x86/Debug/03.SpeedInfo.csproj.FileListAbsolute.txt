@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/3_ConditionalStatements_HW/03.SpeedInfo/bin/Debug/03.SpeedInfo.exe
+/Users/Dochkoff/Projects/3_ConditionalStatements_HW/03.SpeedInfo/bin/Debug/03.SpeedInfo.pdb
+/Users/Dochkoff/Projects/3_ConditionalStatements_HW/03.SpeedInfo/obj/x86/Debug/03.SpeedInfo.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/3_ConditionalStatements_HW/03.SpeedInfo/obj/x86/Debug/03.SpeedInfo.exe
+/Users/Dochkoff/Projects/3_ConditionalStatements_HW/03.SpeedInfo/obj/x86/Debug/03.SpeedInfo.pdb

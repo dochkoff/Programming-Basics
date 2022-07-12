@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01HelloWorld", "01.HelloWorld\01HelloWorld.csproj", "{AEB9FBCA-B46C-4883-BA13-B9A6D454BB53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Expression", "02.Expression\02Expression.csproj", "{2D69C056-0822-458E-B9A1-C5E460EC4B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Numbers1to20", "03.Numbers1to20\03Numbers1to20.csproj", "{85E6B725-ADD1-4475-9B05-B4A1CBFBD536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04RectangleArea", "04.RectangleArea\04RectangleArea.csproj", "{FC5F8B0B-06F1-453E-8183-CD326990873A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB9FBCA-B46C-4883-BA13-B9A6D454BB53}.Debug|x86.ActiveCfg = Debug|x86
+		{AEB9FBCA-B46C-4883-BA13-B9A6D454BB53}.Debug|x86.Build.0 = Debug|x86
+		{AEB9FBCA-B46C-4883-BA13-B9A6D454BB53}.Release|x86.ActiveCfg = Release|x86
+		{AEB9FBCA-B46C-4883-BA13-B9A6D454BB53}.Release|x86.Build.0 = Release|x86
+		{2D69C056-0822-458E-B9A1-C5E460EC4B2D}.Debug|x86.ActiveCfg = Debug|x86
+		{2D69C056-0822-458E-B9A1-C5E460EC4B2D}.Debug|x86.Build.0 = Debug|x86
+		{2D69C056-0822-458E-B9A1-C5E460EC4B2D}.Release|x86.ActiveCfg = Release|x86
+		{2D69C056-0822-458E-B9A1-C5E460EC4B2D}.Release|x86.Build.0 = Release|x86
+		{85E6B725-ADD1-4475-9B05-B4A1CBFBD536}.Debug|x86.ActiveCfg = Debug|x86
+		{85E6B725-ADD1-4475-9B05-B4A1CBFBD536}.Debug|x86.Build.0 = Debug|x86
+		{85E6B725-ADD1-4475-9B05-B4A1CBFBD536}.Release|x86.ActiveCfg = Release|x86
+		{85E6B725-ADD1-4475-9B05-B4A1CBFBD536}.Release|x86.Build.0 = Release|x86
+		{FC5F8B0B-06F1-453E-8183-CD326990873A}.Debug|x86.ActiveCfg = Debug|x86
+		{FC5F8B0B-06F1-453E-8183-CD326990873A}.Debug|x86.Build.0 = Debug|x86
+		{FC5F8B0B-06F1-453E-8183-CD326990873A}.Release|x86.ActiveCfg = Release|x86
+		{FC5F8B0B-06F1-453E-8183-CD326990873A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

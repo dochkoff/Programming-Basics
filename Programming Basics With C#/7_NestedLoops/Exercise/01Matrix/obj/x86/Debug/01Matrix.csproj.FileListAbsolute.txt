@@ -1,0 +1,12 @@
+/Users/Dochkoff/Projects/07_NestedLoops_HW/01Matrix/bin/Debug/01Matrix.exe
+/Users/Dochkoff/Projects/07_NestedLoops_HW/01Matrix/bin/Debug/01Matrix.pdb
+/Users/Dochkoff/Projects/07_NestedLoops_HW/01Matrix/obj/x86/Debug/01Matrix.csprojAssemblyReference.cache
+/Users/Dochkoff/Projects/07_NestedLoops_HW/01Matrix/obj/x86/Debug/01Matrix.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/07_NestedLoops_HW/01Matrix/obj/x86/Debug/01Matrix.exe
+/Users/Dochkoff/Projects/07_NestedLoops_HW/01Matrix/obj/x86/Debug/01Matrix.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/01Matrix/bin/Debug/01Matrix.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/01Matrix/bin/Debug/01Matrix.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/01Matrix/obj/x86/Debug/01Matrix.csprojAssemblyReference.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/01Matrix/obj/x86/Debug/01Matrix.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/01Matrix/obj/x86/Debug/01Matrix.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/01Matrix/obj/x86/Debug/01Matrix.pdb

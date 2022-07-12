@@ -1,0 +1,5 @@
+/Users/dochkoff/Projects/3_ConditionalStatements_201018/Lab09_3EqualNumbers/bin/Debug/Lab09_3EqualNumbers.exe
+/Users/dochkoff/Projects/3_ConditionalStatements_201018/Lab09_3EqualNumbers/bin/Debug/Lab09_3EqualNumbers.pdb
+/Users/dochkoff/Projects/3_ConditionalStatements_201018/Lab09_3EqualNumbers/obj/x86/Debug/Lab09_3EqualNumbers.csproj.CoreCompileInputs.cache
+/Users/dochkoff/Projects/3_ConditionalStatements_201018/Lab09_3EqualNumbers/obj/x86/Debug/Lab09_3EqualNumbers.exe
+/Users/dochkoff/Projects/3_ConditionalStatements_201018/Lab09_3EqualNumbers/obj/x86/Debug/Lab09_3EqualNumbers.pdb

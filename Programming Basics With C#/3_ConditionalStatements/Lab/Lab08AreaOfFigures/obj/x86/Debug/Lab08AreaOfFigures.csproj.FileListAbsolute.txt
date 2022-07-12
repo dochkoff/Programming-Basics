@@ -1,0 +1,5 @@
+/Users/dochkoff/Projects/3_ConditionalStatements_201018/Lab08AreaOfFigures/bin/Debug/Lab08AreaOfFigures.exe
+/Users/dochkoff/Projects/3_ConditionalStatements_201018/Lab08AreaOfFigures/bin/Debug/Lab08AreaOfFigures.pdb
+/Users/dochkoff/Projects/3_ConditionalStatements_201018/Lab08AreaOfFigures/obj/x86/Debug/Lab08AreaOfFigures.csproj.CoreCompileInputs.cache
+/Users/dochkoff/Projects/3_ConditionalStatements_201018/Lab08AreaOfFigures/obj/x86/Debug/Lab08AreaOfFigures.exe
+/Users/dochkoff/Projects/3_ConditionalStatements_201018/Lab08AreaOfFigures/obj/x86/Debug/Lab08AreaOfFigures.pdb

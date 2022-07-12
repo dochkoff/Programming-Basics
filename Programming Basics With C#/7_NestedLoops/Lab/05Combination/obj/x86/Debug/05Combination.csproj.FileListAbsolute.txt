@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/07_NestedLoops_171118/05Combination/bin/Debug/05Combination.exe
+/Users/Dochkoff/Projects/07_NestedLoops_171118/05Combination/bin/Debug/05Combination.pdb
+/Users/Dochkoff/Projects/07_NestedLoops_171118/05Combination/obj/x86/Debug/05Combination.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/07_NestedLoops_171118/05Combination/obj/x86/Debug/05Combination.exe
+/Users/Dochkoff/Projects/07_NestedLoops_171118/05Combination/obj/x86/Debug/05Combination.pdb

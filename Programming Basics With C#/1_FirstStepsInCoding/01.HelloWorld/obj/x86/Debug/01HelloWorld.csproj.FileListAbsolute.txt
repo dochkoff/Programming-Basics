@@ -1,0 +1,6 @@
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/01.HelloWorld/bin/Debug/01.HelloWorld.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/01.HelloWorld/bin/Debug/01.HelloWorld.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/01.HelloWorld/obj/x86/Debug/01HelloWorld.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/01.HelloWorld/obj/x86/Debug/01.HelloWorld.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/01.HelloWorld/obj/x86/Debug/01.HelloWorld.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/01.HelloWorld/obj/x86/Debug/01HelloWorld.csproj.AssemblyReference.cache

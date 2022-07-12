@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_HW/09WorldSwimmingRecord/bin/Debug/09WorldSwimmingRecord.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_HW/09WorldSwimmingRecord/bin/Debug/09WorldSwimmingRecord.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_HW/09WorldSwimmingRecord/obj/x86/Debug/09WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_HW/09WorldSwimmingRecord/obj/x86/Debug/09WorldSwimmingRecord.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_HW/09WorldSwimmingRecord/obj/x86/Debug/09WorldSwimmingRecord.pdb

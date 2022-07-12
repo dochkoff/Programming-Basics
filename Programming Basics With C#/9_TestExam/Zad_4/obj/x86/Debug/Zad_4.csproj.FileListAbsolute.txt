@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/09_TestExam_25112018/Zad_4/bin/Debug/Zad_4.exe
+/Users/Dochkoff/Projects/09_TestExam_25112018/Zad_4/bin/Debug/Zad_4.pdb
+/Users/Dochkoff/Projects/09_TestExam_25112018/Zad_4/obj/x86/Debug/Zad_4.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/09_TestExam_25112018/Zad_4/obj/x86/Debug/Zad_4.exe
+/Users/Dochkoff/Projects/09_TestExam_25112018/Zad_4/obj/x86/Debug/Zad_4.pdb

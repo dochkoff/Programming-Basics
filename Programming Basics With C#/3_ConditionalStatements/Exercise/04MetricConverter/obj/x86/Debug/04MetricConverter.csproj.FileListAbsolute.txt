@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/3_ConditionalStatements_HW/04MetricConverter/obj/x86/Debug/04MetricConverter.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/3_ConditionalStatements_HW/04MetricConverter/bin/Debug/04MetricConverter.exe
+/Users/Dochkoff/Projects/3_ConditionalStatements_HW/04MetricConverter/bin/Debug/04MetricConverter.pdb
+/Users/Dochkoff/Projects/3_ConditionalStatements_HW/04MetricConverter/obj/x86/Debug/04MetricConverter.exe
+/Users/Dochkoff/Projects/3_ConditionalStatements_HW/04MetricConverter/obj/x86/Debug/04MetricConverter.pdb

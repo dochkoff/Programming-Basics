@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise012DRectangleArea/bin/Debug/Exercise012DRectangleArea.exe
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise012DRectangleArea/bin/Debug/Exercise012DRectangleArea.pdb
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise012DRectangleArea/obj/x86/Debug/1_RectangleArea.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise012DRectangleArea/obj/x86/Debug/Exercise012DRectangleArea.exe
+/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise012DRectangleArea/obj/x86/Debug/Exercise012DRectangleArea.pdb

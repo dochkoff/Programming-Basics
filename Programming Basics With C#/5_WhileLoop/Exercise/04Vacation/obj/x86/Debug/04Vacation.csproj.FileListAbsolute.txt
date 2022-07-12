@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/5_WhileLoop_HW/04Vacation/bin/Debug/04Vacation.exe
+/Users/Dochkoff/Projects/5_WhileLoop_HW/04Vacation/bin/Debug/04Vacation.pdb
+/Users/Dochkoff/Projects/5_WhileLoop_HW/04Vacation/obj/x86/Debug/04Vacation.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/5_WhileLoop_HW/04Vacation/obj/x86/Debug/04Vacation.exe
+/Users/Dochkoff/Projects/5_WhileLoop_HW/04Vacation/obj/x86/Debug/04Vacation.pdb

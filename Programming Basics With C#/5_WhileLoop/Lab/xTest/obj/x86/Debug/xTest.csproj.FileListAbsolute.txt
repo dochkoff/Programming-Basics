@@ -1,0 +1,6 @@
+/Users/Dochkoff/Projects/ProgrammingBasics18/5_WhileLoop_03112018/xTest/bin/Debug/xTest.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/5_WhileLoop_03112018/xTest/bin/Debug/xTest.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/5_WhileLoop_03112018/xTest/obj/x86/Debug/xTest.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/5_WhileLoop_03112018/xTest/obj/x86/Debug/xTest.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/5_WhileLoop_03112018/xTest/obj/x86/Debug/xTest.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/5_WhileLoop_03112018/xTest/obj/x86/Debug/xTest.pdb

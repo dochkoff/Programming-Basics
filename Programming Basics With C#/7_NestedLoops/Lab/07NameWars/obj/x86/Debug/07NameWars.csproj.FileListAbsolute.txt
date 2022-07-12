@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/07_NestedLoops_171118/07NameWars/bin/Debug/07NameWars.exe
+/Users/Dochkoff/Projects/07_NestedLoops_171118/07NameWars/bin/Debug/07NameWars.pdb
+/Users/Dochkoff/Projects/07_NestedLoops_171118/07NameWars/obj/x86/Debug/07NameWars.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/07_NestedLoops_171118/07NameWars/obj/x86/Debug/07NameWars.exe
+/Users/Dochkoff/Projects/07_NestedLoops_171118/07NameWars/obj/x86/Debug/07NameWars.pdb

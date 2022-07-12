@@ -1,0 +1,6 @@
+/Users/Dochkoff/Projects/06_ForLoop_101118/01NumbersFrom1to100/bin/Debug/01NumbersFrom1to100.exe
+/Users/Dochkoff/Projects/06_ForLoop_101118/01NumbersFrom1to100/bin/Debug/01NumbersFrom1to100.pdb
+/Users/Dochkoff/Projects/06_ForLoop_101118/01NumbersFrom1to100/obj/x86/Debug/01NumbersFrom1to100.csprojAssemblyReference.cache
+/Users/Dochkoff/Projects/06_ForLoop_101118/01NumbersFrom1to100/obj/x86/Debug/01NumbersFrom1to100.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/06_ForLoop_101118/01NumbersFrom1to100/obj/x86/Debug/01NumbersFrom1to100.exe
+/Users/Dochkoff/Projects/06_ForLoop_101118/01NumbersFrom1to100/obj/x86/Debug/01NumbersFrom1to100.pdb

@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Lab01SquareArea/bin/Debug/Lab01SquareArea.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Lab01SquareArea/bin/Debug/Lab01SquareArea.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Lab01SquareArea/obj/x86/Debug/Lab01SquareArea.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Lab01SquareArea/obj/x86/Debug/Lab01SquareArea.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Lab01SquareArea/obj/x86/Debug/Lab01SquareArea.pdb

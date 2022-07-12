@@ -1,0 +1,6 @@
+/Users/Dochkoff/Projects/6_ForLoop_HW/01NumbersEndingIn7/bin/Debug/01NumbersEndingIn7.exe
+/Users/Dochkoff/Projects/6_ForLoop_HW/01NumbersEndingIn7/bin/Debug/01NumbersEndingIn7.pdb
+/Users/Dochkoff/Projects/6_ForLoop_HW/01NumbersEndingIn7/obj/x86/Debug/01NumbersEndingIn7.csprojAssemblyReference.cache
+/Users/Dochkoff/Projects/6_ForLoop_HW/01NumbersEndingIn7/obj/x86/Debug/01NumbersEndingIn7.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/6_ForLoop_HW/01NumbersEndingIn7/obj/x86/Debug/01NumbersEndingIn7.exe
+/Users/Dochkoff/Projects/6_ForLoop_HW/01NumbersEndingIn7/obj/x86/Debug/01NumbersEndingIn7.pdb

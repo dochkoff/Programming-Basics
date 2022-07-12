@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Lab07TriangleArea/bin/Debug/Lab07TriangleArea.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Lab07TriangleArea/bin/Debug/Lab07TriangleArea.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Lab07TriangleArea/obj/x86/Debug/Lab07TriangleArea.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Lab07TriangleArea/obj/x86/Debug/Lab07TriangleArea.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Lab07TriangleArea/obj/x86/Debug/Lab07TriangleArea.pdb

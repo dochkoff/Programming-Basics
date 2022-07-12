@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/04.RectangleArea/bin/Debug/04.RectangleArea.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/04.RectangleArea/bin/Debug/04.RectangleArea.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/04.RectangleArea/obj/x86/Debug/04.RectangleArea.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/04.RectangleArea/obj/x86/Debug/04.RectangleArea.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/04.RectangleArea/obj/x86/Debug/04.RectangleArea.pdb

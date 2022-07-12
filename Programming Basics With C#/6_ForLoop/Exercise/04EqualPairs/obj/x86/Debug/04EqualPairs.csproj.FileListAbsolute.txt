@@ -1,0 +1,11 @@
+/Users/Dochkoff/Projects/6_ForLoop_HW/04EqualPairs/bin/Debug/04EqualPairs.exe
+/Users/Dochkoff/Projects/6_ForLoop_HW/04EqualPairs/bin/Debug/04EqualPairs.pdb
+/Users/Dochkoff/Projects/6_ForLoop_HW/04EqualPairs/obj/x86/Debug/04EqualPairs.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/6_ForLoop_HW/04EqualPairs/obj/x86/Debug/04EqualPairs.exe
+/Users/Dochkoff/Projects/6_ForLoop_HW/04EqualPairs/obj/x86/Debug/04EqualPairs.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/6_ForLoop_HW/04EqualPairs/bin/Debug/04EqualPairs.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/6_ForLoop_HW/04EqualPairs/bin/Debug/04EqualPairs.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/6_ForLoop_HW/04EqualPairs/obj/x86/Debug/04EqualPairs.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/6_ForLoop_HW/04EqualPairs/obj/x86/Debug/04EqualPairs.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/6_ForLoop_HW/04EqualPairs/obj/x86/Debug/04EqualPairs.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/6_ForLoop_HW/04EqualPairs/obj/x86/Debug/04EqualPairs.csprojAssemblyReference.cache

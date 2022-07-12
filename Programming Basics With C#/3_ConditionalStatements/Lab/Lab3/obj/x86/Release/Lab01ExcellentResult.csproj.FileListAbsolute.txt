@@ -1,0 +1,4 @@
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab3/bin/Release/Lab3.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab3/obj/x86/Release/Lab01ExcellentResult.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab3/obj/x86/Release/Lab01ExcellentResult.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab3/obj/x86/Release/Lab3.exe

@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/04GroupStage/bin/Debug/04GroupStage.exe
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/04GroupStage/bin/Debug/04GroupStage.pdb
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/04GroupStage/obj/x86/Debug/04GroupStage.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/04GroupStage/obj/x86/Debug/04GroupStage.exe
+/Users/Dochkoff/Projects/08_PrepareForExam_24112018/04GroupStage/obj/x86/Debug/04GroupStage.pdb

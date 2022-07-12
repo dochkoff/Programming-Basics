@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/5_WhileLoop_HW/03ExamPreparation/bin/Debug/03ExamPreparation.exe
+/Users/Dochkoff/Projects/5_WhileLoop_HW/03ExamPreparation/bin/Debug/03ExamPreparation.pdb
+/Users/Dochkoff/Projects/5_WhileLoop_HW/03ExamPreparation/obj/x86/Debug/03ExamPreparation.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/5_WhileLoop_HW/03ExamPreparation/obj/x86/Debug/03ExamPreparation.exe
+/Users/Dochkoff/Projects/5_WhileLoop_HW/03ExamPreparation/obj/x86/Debug/03ExamPreparation.pdb

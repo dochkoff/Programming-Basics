@@ -1,0 +1,53 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_RectangleArea", "1_RectangleArea\1_RectangleArea.csproj", "{4F793770-BB06-4784-BE11-61F330B3896A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_USDtoBGN", "2_USDtoBGN\2_USDtoBGN.csproj", "{697D8F82-151E-4E31-A5C8-1FA6B3ACE997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_TailoringWorkshop", "4_TailoringWorkshop\4_TailoringWorkshop.csproj", "{AA44FB3D-BF1B-4EC4-B3E5-28E7627BE206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_DanceHall", "5_DanceHall\5_DanceHall.csproj", "{7F26765F-230D-442E-BA29-4AE840559292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_CharityCampaign", "6_CharityCampaign\6_CharityCampaign.csproj", "{D8606B17-182D-493E-A2D3-B3C623ADC89C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_AlcoholMarket", "7_AlcoholMarket\7_AlcoholMarket.csproj", "{7E6516C1-F756-4292-9C54-914B6EE4DD2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_CurrencyConverter", "3_CurrencyConverter\3_CurrencyConverter.csproj", "{E0993422-CEA2-4963-8A7A-0F7E20D72932}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F793770-BB06-4784-BE11-61F330B3896A}.Debug|x86.ActiveCfg = Debug|x86
+		{4F793770-BB06-4784-BE11-61F330B3896A}.Debug|x86.Build.0 = Debug|x86
+		{4F793770-BB06-4784-BE11-61F330B3896A}.Release|x86.ActiveCfg = Release|x86
+		{4F793770-BB06-4784-BE11-61F330B3896A}.Release|x86.Build.0 = Release|x86
+		{697D8F82-151E-4E31-A5C8-1FA6B3ACE997}.Debug|x86.ActiveCfg = Debug|x86
+		{697D8F82-151E-4E31-A5C8-1FA6B3ACE997}.Debug|x86.Build.0 = Debug|x86
+		{697D8F82-151E-4E31-A5C8-1FA6B3ACE997}.Release|x86.ActiveCfg = Release|x86
+		{697D8F82-151E-4E31-A5C8-1FA6B3ACE997}.Release|x86.Build.0 = Release|x86
+		{AA44FB3D-BF1B-4EC4-B3E5-28E7627BE206}.Debug|x86.ActiveCfg = Debug|x86
+		{AA44FB3D-BF1B-4EC4-B3E5-28E7627BE206}.Debug|x86.Build.0 = Debug|x86
+		{AA44FB3D-BF1B-4EC4-B3E5-28E7627BE206}.Release|x86.ActiveCfg = Release|x86
+		{AA44FB3D-BF1B-4EC4-B3E5-28E7627BE206}.Release|x86.Build.0 = Release|x86
+		{7F26765F-230D-442E-BA29-4AE840559292}.Debug|x86.ActiveCfg = Debug|x86
+		{7F26765F-230D-442E-BA29-4AE840559292}.Debug|x86.Build.0 = Debug|x86
+		{7F26765F-230D-442E-BA29-4AE840559292}.Release|x86.ActiveCfg = Release|x86
+		{7F26765F-230D-442E-BA29-4AE840559292}.Release|x86.Build.0 = Release|x86
+		{D8606B17-182D-493E-A2D3-B3C623ADC89C}.Debug|x86.ActiveCfg = Debug|x86
+		{D8606B17-182D-493E-A2D3-B3C623ADC89C}.Debug|x86.Build.0 = Debug|x86
+		{D8606B17-182D-493E-A2D3-B3C623ADC89C}.Release|x86.ActiveCfg = Release|x86
+		{D8606B17-182D-493E-A2D3-B3C623ADC89C}.Release|x86.Build.0 = Release|x86
+		{7E6516C1-F756-4292-9C54-914B6EE4DD2C}.Debug|x86.ActiveCfg = Debug|x86
+		{7E6516C1-F756-4292-9C54-914B6EE4DD2C}.Debug|x86.Build.0 = Debug|x86
+		{7E6516C1-F756-4292-9C54-914B6EE4DD2C}.Release|x86.ActiveCfg = Release|x86
+		{7E6516C1-F756-4292-9C54-914B6EE4DD2C}.Release|x86.Build.0 = Release|x86
+		{E0993422-CEA2-4963-8A7A-0F7E20D72932}.Debug|x86.ActiveCfg = Debug|x86
+		{E0993422-CEA2-4963-8A7A-0F7E20D72932}.Debug|x86.Build.0 = Debug|x86
+		{E0993422-CEA2-4963-8A7A-0F7E20D72932}.Release|x86.ActiveCfg = Release|x86
+		{E0993422-CEA2-4963-8A7A-0F7E20D72932}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

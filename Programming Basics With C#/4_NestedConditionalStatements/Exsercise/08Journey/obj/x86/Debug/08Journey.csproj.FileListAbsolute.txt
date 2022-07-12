@@ -1,0 +1,6 @@
+/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/08Journey/bin/Debug/08Journey.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/08Journey/bin/Debug/08Journey.pdb
+/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/08Journey/obj/x86/Debug/08Journey.csprojAssemblyReference.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/08Journey/obj/x86/Debug/08Journey.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/08Journey/obj/x86/Debug/08Journey.exe
+/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/08Journey/obj/x86/Debug/08Journey.pdb
