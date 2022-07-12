@@ -17,4 +17,4 @@ The [Programming Basics](https://softuni.bg/trainings/2158/programming-basics-bu
 -	Working with logical checks (**if-else**, **switch**)
 -	Working with more complex loops (**nested** for loops and while loops)
 
-[Programming Basics with Java - март 2020 - Honorable mention](https://user-images.githubusercontent.com/76119513/131251576-c01cc13b-0858-43b7-8125-5d089ce56ed1.jpeg)
+![](https://github.com/dochkoff/Programming-Basics/blob/main/Certificate.jpeg)
