@@ -1,6 +1,0 @@
-/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab/bin/Debug/Lab.exe
-/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab/bin/Debug/Lab.pdb
-/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab/obj/x86/Debug/Lab1.csprojAssemblyReference.cache
-/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab/obj/x86/Debug/Lab1.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab/obj/x86/Debug/Lab.exe
-/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab/obj/x86/Debug/Lab.pdb

@@ -1,3 +1,0 @@
-/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab/bin/Release/Lab.exe
-/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab/obj/x86/Release/Lab1.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/ProgrammingBasics18/3_ConditionalStatements_201018/Lab/obj/x86/Release/Lab.exe

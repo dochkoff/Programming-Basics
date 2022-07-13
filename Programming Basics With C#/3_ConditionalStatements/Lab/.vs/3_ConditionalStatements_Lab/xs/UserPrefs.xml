@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{B0C3C6F3-3D4C-4966-A15B-9B0EB93CAA51}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3_ConditionalStatements_Lab" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <DisabledProjects>
+    <String>Lab/Lab.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.1__ExcellentResult PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
