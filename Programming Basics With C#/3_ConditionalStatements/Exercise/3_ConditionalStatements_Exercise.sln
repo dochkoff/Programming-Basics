@@ -1,23 +1,23 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SumSeconds", "01.SumSeconds\01.SumSeconds.csproj", "{0EB1A68D-DF90-4A7E-8183-FD6EA298B9BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_SumSeconds", "01_SumSeconds\01_SumSeconds.csproj", "{0EB1A68D-DF90-4A7E-8183-FD6EA298B9BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BonusScore", "02.BonusScore\02.BonusScore.csproj", "{91AEFA97-E985-41F1-BCEE-E0AC53A356A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_BonusScore", "02_BonusScore\02_BonusScore.csproj", "{91AEFA97-E985-41F1-BCEE-E0AC53A356A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SpeedInfo", "03.SpeedInfo\03.SpeedInfo.csproj", "{612A716A-F865-400B-AE8A-45B4552AEB98}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_SpeedInfo", "03_SpeedInfo\03_SpeedInfo.csproj", "{612A716A-F865-400B-AE8A-45B4552AEB98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04MetricConverter", "04MetricConverter\04MetricConverter.csproj", "{35EC7F8F-B993-460B-85C8-AF9BA93E8A64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_MetricConverter", "04_MetricConverter\04_MetricConverter.csproj", "{35EC7F8F-B993-460B-85C8-AF9BA93E8A64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Time_15Minutes", "05Time_15Minutes\05Time_15Minutes.csproj", "{C3F59FE6-AE14-4B0A-A34A-3FCDA5CFB35C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Time_15Minutes", "05_Time_15Minutes\05_Time_15Minutes.csproj", "{C3F59FE6-AE14-4B0A-A34A-3FCDA5CFB35C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06ThreeBrothers", "06ThreeBrothers\06ThreeBrothers.csproj", "{7A574214-6D84-4C81-86C9-BFDE4BC077BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_ThreeBrothers", "06_ThreeBrothers\06_ThreeBrothers.csproj", "{7A574214-6D84-4C81-86C9-BFDE4BC077BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08Choreography", "08Choreography\08Choreography.csproj", "{A7C440B6-39D4-4EEC-B6A8-96885E3C2157}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Choreography", "08_Choreography\08_Choreography.csproj", "{A7C440B6-39D4-4EEC-B6A8-96885E3C2157}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07Scholarship", "07Scholarship\07Scholarship.csproj", "{AE1169BB-2E8A-401C-A1EB-1D119841E0F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Scholarship", "07_Scholarship\07_Scholarship.csproj", "{AE1169BB-2E8A-401C-A1EB-1D119841E0F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09WorldSwimmingRecord", "09WorldSwimmingRecord\09WorldSwimmingRecord.csproj", "{0D028535-75E5-411C-B6A3-E65A55604F25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_WorldSwimmingRecord", "09_WorldSwimmingRecord\09_WorldSwimmingRecord.csproj", "{0D028535-75E5-411C-B6A3-E65A55604F25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
