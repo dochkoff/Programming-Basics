@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/002NumberPyramid/bin/Debug/002NumberPyramid.exe
-/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/002NumberPyramid/bin/Debug/002NumberPyramid.pdb
-/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/002NumberPyramid/obj/x86/Debug/002NumberPyramid.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/002NumberPyramid/obj/x86/Debug/002NumberPyramid.exe
-/Users/Dochkoff/Projects/ProgrammingBasics18/7_NestedLoops_HW/002NumberPyramid/obj/x86/Debug/002NumberPyramid.pdb
