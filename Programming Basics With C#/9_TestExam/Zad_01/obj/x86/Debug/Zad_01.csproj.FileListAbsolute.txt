@@ -1,6 +1,0 @@
-/Users/Dochkoff/Projects/09_TestExam_25112018/Zad_01/bin/Debug/Zad_01.exe
-/Users/Dochkoff/Projects/09_TestExam_25112018/Zad_01/bin/Debug/Zad_01.pdb
-/Users/Dochkoff/Projects/09_TestExam_25112018/Zad_01/obj/x86/Debug/Zad_01.csprojAssemblyReference.cache
-/Users/Dochkoff/Projects/09_TestExam_25112018/Zad_01/obj/x86/Debug/Zad_01.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/09_TestExam_25112018/Zad_01/obj/x86/Debug/Zad_01.exe
-/Users/Dochkoff/Projects/09_TestExam_25112018/Zad_01/obj/x86/Debug/Zad_01.pdb
