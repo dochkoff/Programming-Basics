@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01NumberInRange1_100", "01NumberInRange1_100\01NumberInRange1_100.csproj", "{6AB418E0-842B-4B29-AE40-78292A122EB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_NumberInRange1_100", "01_NumberInRange1_100\01_NumberInRange1_100.csproj", "{6AB418E0-842B-4B29-AE40-78292A122EB9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xTest", "xTest\xTest.csproj", "{2A63BA74-7E13-4CA5-B671-9F450FE65F3F}"
 EndProject
