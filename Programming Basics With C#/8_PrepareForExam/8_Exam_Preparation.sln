@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_StadiumIncome", "01_StadiumIncome\01_StadiumIncome.csproj", "{D1A7ED14-9F29-45C8-A4A6-46C443BE75F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_BeerAndChips", "02_BeerAndChips\02_BeerAndChips.csproj", "{03284530-FB17-4B06-A16D-6184F340D85A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_FootballSouvenirs", "03_FootballSouvenirs\03_FootballSouvenirs.csproj", "{9F24C40E-41F2-4A3D-8D9A-B26674B6EB17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_GroupStage", "04_GroupStage\04_GroupStage.csproj", "{9FA05E1B-E0D3-4853-B114-F70F050B6A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_FanShop", "05_FanShop\05_FanShop.csproj", "{BD29AB19-51C9-4723-8C3A-E38A42D86359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_TicketCombination", "06_TicketCombination\06_TicketCombination.csproj", "{D1513CCF-DF47-4B63-B8DA-C11CA9326AB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A7ED14-9F29-45C8-A4A6-46C443BE75F3}.Debug|x86.ActiveCfg = Debug|x86
+		{D1A7ED14-9F29-45C8-A4A6-46C443BE75F3}.Debug|x86.Build.0 = Debug|x86
+		{D1A7ED14-9F29-45C8-A4A6-46C443BE75F3}.Release|x86.ActiveCfg = Release|x86
+		{D1A7ED14-9F29-45C8-A4A6-46C443BE75F3}.Release|x86.Build.0 = Release|x86
+		{03284530-FB17-4B06-A16D-6184F340D85A}.Debug|x86.ActiveCfg = Debug|x86
+		{03284530-FB17-4B06-A16D-6184F340D85A}.Debug|x86.Build.0 = Debug|x86
+		{03284530-FB17-4B06-A16D-6184F340D85A}.Release|x86.ActiveCfg = Release|x86
+		{03284530-FB17-4B06-A16D-6184F340D85A}.Release|x86.Build.0 = Release|x86
+		{9F24C40E-41F2-4A3D-8D9A-B26674B6EB17}.Debug|x86.ActiveCfg = Debug|x86
+		{9F24C40E-41F2-4A3D-8D9A-B26674B6EB17}.Debug|x86.Build.0 = Debug|x86
+		{9F24C40E-41F2-4A3D-8D9A-B26674B6EB17}.Release|x86.ActiveCfg = Release|x86
+		{9F24C40E-41F2-4A3D-8D9A-B26674B6EB17}.Release|x86.Build.0 = Release|x86
+		{9FA05E1B-E0D3-4853-B114-F70F050B6A54}.Debug|x86.ActiveCfg = Debug|x86
+		{9FA05E1B-E0D3-4853-B114-F70F050B6A54}.Debug|x86.Build.0 = Debug|x86
+		{9FA05E1B-E0D3-4853-B114-F70F050B6A54}.Release|x86.ActiveCfg = Release|x86
+		{9FA05E1B-E0D3-4853-B114-F70F050B6A54}.Release|x86.Build.0 = Release|x86
+		{BD29AB19-51C9-4723-8C3A-E38A42D86359}.Debug|x86.ActiveCfg = Debug|x86
+		{BD29AB19-51C9-4723-8C3A-E38A42D86359}.Debug|x86.Build.0 = Debug|x86
+		{BD29AB19-51C9-4723-8C3A-E38A42D86359}.Release|x86.ActiveCfg = Release|x86
+		{BD29AB19-51C9-4723-8C3A-E38A42D86359}.Release|x86.Build.0 = Release|x86
+		{D1513CCF-DF47-4B63-B8DA-C11CA9326AB5}.Debug|x86.ActiveCfg = Debug|x86
+		{D1513CCF-DF47-4B63-B8DA-C11CA9326AB5}.Debug|x86.Build.0 = Debug|x86
+		{D1513CCF-DF47-4B63-B8DA-C11CA9326AB5}.Release|x86.ActiveCfg = Release|x86
+		{D1513CCF-DF47-4B63-B8DA-C11CA9326AB5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
