@@ -9,18 +9,11 @@
   <MonoDevelop.Ide.ItemProperties.1__SquareArea PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.2__InchesToCentimeters PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.4__Concatenation PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="4_Concatenation/Concatenation.cs">
-    <Files>
-      <File FileName="4_Concatenation/Concatenation.cs" Line="17" Column="2" />
-      <File FileName="3_GreetingByName/GreetingByName.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="2_SimpleOperationsAndCalculations_Lab" expanded="True">
-            <Node name="3_GreetingByName" expanded="True" />
-            <Node name="4_Concatenation" expanded="True" />
-          </Node>
+          <Node name="2_SimpleOperationsAndCalculations_Lab" expanded="True" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">

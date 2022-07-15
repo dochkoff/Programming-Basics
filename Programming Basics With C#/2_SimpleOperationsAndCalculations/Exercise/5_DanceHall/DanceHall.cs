@@ -7,7 +7,6 @@ namespace Exercise05DanceHall
         public static void Main(string[] args)
         {
             double l = double.Parse(Console.ReadLine());
-
             double w = double.Parse(Console.ReadLine());
             double a = double.Parse(Console.ReadLine());
 
