@@ -6,8 +6,8 @@ namespace Number1_9toText
     {
         public static void Main(string[] args)
         {
-            //ako imame samo if nqkolko puti gi proverqva vsichkite
-            //no ako ima if i sled tova if else mu trqbva samo edno da otgovarq i spira da proverqva nadolu
+            //Ako polzwame samo IF na vseki red, togava vsichkite varianti shte budat provereni
+            //Ako polzwame IF / IF ELSE konstrukciq, spira da proverqva sledvashite IF ELSE sled purviq TRUE
 
             int number = int.Parse(Console.ReadLine());
 

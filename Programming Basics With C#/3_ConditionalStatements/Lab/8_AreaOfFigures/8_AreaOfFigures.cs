@@ -8,7 +8,7 @@ namespace AreaOfFigures
         {
             string figure = Console.ReadLine();
 
-            double area = 0;
+            double area = 0.0;
 
             if (figure == "square")
             {
