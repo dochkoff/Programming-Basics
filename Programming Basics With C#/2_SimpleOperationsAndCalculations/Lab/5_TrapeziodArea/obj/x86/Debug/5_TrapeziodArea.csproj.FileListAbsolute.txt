@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/5_TrapeziodArea/bin/Debug/Lab04TrapeziodArea.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/5_TrapeziodArea/bin/Debug/Lab04TrapeziodArea.pdb
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/5_TrapeziodArea/obj/x86/Debug/5_TrapeziodArea.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/5_TrapeziodArea/obj/x86/Debug/Lab04TrapeziodArea.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/5_TrapeziodArea/obj/x86/Debug/Lab04TrapeziodArea.pdb

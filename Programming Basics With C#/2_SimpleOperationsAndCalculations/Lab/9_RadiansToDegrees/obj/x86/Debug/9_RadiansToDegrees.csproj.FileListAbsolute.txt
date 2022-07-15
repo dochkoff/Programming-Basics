@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/9_RadiansToDegrees/bin/Debug/Lab09RadiansToDegrees.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/9_RadiansToDegrees/bin/Debug/Lab09RadiansToDegrees.pdb
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/9_RadiansToDegrees/obj/x86/Debug/9_RadiansToDegrees.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/9_RadiansToDegrees/obj/x86/Debug/Lab09RadiansToDegrees.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/9_RadiansToDegrees/obj/x86/Debug/Lab09RadiansToDegrees.pdb

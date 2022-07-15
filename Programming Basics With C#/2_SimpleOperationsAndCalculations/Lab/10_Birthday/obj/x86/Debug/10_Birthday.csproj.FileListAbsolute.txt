@@ -1,0 +1,6 @@
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/10_Birthday/bin/Debug/Lab10Birthday.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/10_Birthday/bin/Debug/Lab10Birthday.pdb
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/10_Birthday/obj/x86/Debug/10_Birthday.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/10_Birthday/obj/x86/Debug/10_Birthday.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/10_Birthday/obj/x86/Debug/Lab10Birthday.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/10_Birthday/obj/x86/Debug/Lab10Birthday.pdb

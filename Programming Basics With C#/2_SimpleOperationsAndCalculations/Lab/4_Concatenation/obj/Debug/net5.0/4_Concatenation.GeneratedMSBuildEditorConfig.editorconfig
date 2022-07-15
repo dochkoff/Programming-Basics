@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = 4_Concatenation
-build_property.ProjectDir = /Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/4_Concatenation/
+build_property.ProjectDir = /Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/4_Concatenation/

@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/6_CircleAreaAndPerimeter/bin/Debug/Lab06CircleAreaAndPerimeter.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/6_CircleAreaAndPerimeter/bin/Debug/Lab06CircleAreaAndPerimeter.pdb
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/6_CircleAreaAndPerimeter/obj/x86/Debug/6_CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/6_CircleAreaAndPerimeter/obj/x86/Debug/Lab06CircleAreaAndPerimeter.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/6_CircleAreaAndPerimeter/obj/x86/Debug/Lab06CircleAreaAndPerimeter.pdb
