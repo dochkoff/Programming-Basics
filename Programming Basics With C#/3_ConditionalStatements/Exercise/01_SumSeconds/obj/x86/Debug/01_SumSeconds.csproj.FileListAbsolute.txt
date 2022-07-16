@@ -1,0 +1,6 @@
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Exercise/01_SumSeconds/bin/Debug/01.SumSeconds.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Exercise/01_SumSeconds/bin/Debug/01.SumSeconds.pdb
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Exercise/01_SumSeconds/obj/x86/Debug/01_SumSeconds.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Exercise/01_SumSeconds/obj/x86/Debug/01.SumSeconds.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Exercise/01_SumSeconds/obj/x86/Debug/01.SumSeconds.pdb
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Exercise/01_SumSeconds/obj/x86/Debug/01_SumSeconds.csproj.AssemblyReference.cache
