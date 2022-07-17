@@ -10,9 +10,9 @@ namespace OperationsBetweenNumbers
             int n2 = int.Parse(Console.ReadLine());
             char operand = Console.ReadLine()[0];
 
-            double result = 0;
+            double result = 0.0;
 
-            if (operand == '+' || operand =='-' || operand == '*')
+            if (operand == '+' || operand == '-' || operand == '*')
             {
                 if (operand == '+')
                 {
@@ -37,7 +37,7 @@ namespace OperationsBetweenNumbers
                 }
             }
 
-            else if (operand =='/' || operand == '%')
+            else if (operand == '/' || operand == '%')
             {
                 if (n2 == 0)
                 {

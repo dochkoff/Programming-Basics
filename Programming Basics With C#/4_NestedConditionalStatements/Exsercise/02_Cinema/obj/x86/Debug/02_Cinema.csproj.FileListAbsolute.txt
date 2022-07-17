@@ -1,0 +1,4 @@
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/4_NestedConditionalStatements/Exsercise/02_Cinema/obj/x86/Debug/02_Cinema.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/4_NestedConditionalStatements/Exsercise/02_Cinema/obj/x86/Debug/02_Cinema.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/4_NestedConditionalStatements/Exsercise/02_Cinema/obj/x86/Debug/02Cinema.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/4_NestedConditionalStatements/Exsercise/02_Cinema/obj/x86/Debug/02Cinema.pdb

@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/4_NestedConditionalStatements/Exsercise/09_OperationsBetweenNumbers/bin/Debug/09OperationsBetweenNumbers.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/4_NestedConditionalStatements/Exsercise/09_OperationsBetweenNumbers/bin/Debug/09OperationsBetweenNumbers.pdb
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/4_NestedConditionalStatements/Exsercise/09_OperationsBetweenNumbers/obj/x86/Debug/09_OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/4_NestedConditionalStatements/Exsercise/09_OperationsBetweenNumbers/obj/x86/Debug/09OperationsBetweenNumbers.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/4_NestedConditionalStatements/Exsercise/09_OperationsBetweenNumbers/obj/x86/Debug/09OperationsBetweenNumbers.pdb

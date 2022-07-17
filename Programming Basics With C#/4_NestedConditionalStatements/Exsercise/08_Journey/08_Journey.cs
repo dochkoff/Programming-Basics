@@ -6,30 +6,39 @@ namespace Journey
     {
         public static void Main(string[] args)
         {
-            string destination = string.Empty;
-            int moneyNeeded = 0;
-            int savings = 0;
-            int money = 0;
+            double budget = double.Parse(Console.ReadLine());
+            string season = Console.ReadLine();
 
-            while (true)
+            if (budget <= 100)
             {
-                destination = Console.ReadLine();
-                if (destination == "End")
+                if (season == "summer")
                 {
-                    break;
+                    Console.WriteLine($"Somewhere in Bulgaria");
+                    Console.WriteLine($"Camp - {budget * 0.3:F2}");
                 }
-                moneyNeeded = int.Parse(Console.ReadLine());
-                savings = 0;
-                money = 0;
-                while (money < moneyNeeded)
+                else if (season == "winter")
                 {
-                    savings = int.Parse(Console.ReadLine());
-                    money += savings;
-                    if (money >= moneyNeeded)
-                    {
-                        Console.WriteLine($"Going to {destination}!");
-                    }
+                    Console.WriteLine($"Somewhere in Bulgaria");
+                    Console.WriteLine($"Hotel - {budget * 0.7:F2}");
                 }
+            }
+            else if (budget <= 1000)
+            {
+                if (season == "summer")
+                {
+                    Console.WriteLine($"Somewhere in Balkans");
+                    Console.WriteLine($"Camp - {budget * 0.4:F2}");
+                }
+                else if (season == "winter")
+                {
+                    Console.WriteLine($"Somewhere in Balkans");
+                    Console.WriteLine($"Hotel - {budget * 0.8:F2}");
+                }
+            }
+            else if (budget > 1000)
+            {
+                Console.WriteLine($"Somewhere in Europe");
+                Console.WriteLine($"Hotel - {budget * 0.9:F2}");
             }
         }
     }

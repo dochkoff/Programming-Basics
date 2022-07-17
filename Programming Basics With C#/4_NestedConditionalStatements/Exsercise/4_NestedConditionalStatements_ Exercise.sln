@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_OnTimeForTheExam", "07_O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Journey", "08_Journey\08_Journey.csproj", "{4F370B00-6417-4802-8482-91295F852E22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_HotelRoom", "10_HotelRoom\10_HotelRoom.csproj", "{817CEC50-2FFC-4528-AB68-B142D9A13B6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -61,5 +63,9 @@ Global
 		{4F370B00-6417-4802-8482-91295F852E22}.Debug|x86.Build.0 = Debug|x86
 		{4F370B00-6417-4802-8482-91295F852E22}.Release|x86.ActiveCfg = Release|x86
 		{4F370B00-6417-4802-8482-91295F852E22}.Release|x86.Build.0 = Release|x86
+		{817CEC50-2FFC-4528-AB68-B142D9A13B6E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{817CEC50-2FFC-4528-AB68-B142D9A13B6E}.Debug|x86.Build.0 = Debug|Any CPU
+		{817CEC50-2FFC-4528-AB68-B142D9A13B6E}.Release|x86.ActiveCfg = Release|Any CPU
+		{817CEC50-2FFC-4528-AB68-B142D9A13B6E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
