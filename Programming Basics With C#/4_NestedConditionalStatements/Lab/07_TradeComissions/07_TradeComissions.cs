@@ -9,7 +9,7 @@ namespace TradeComissions
             string city = Console.ReadLine().ToLower();
             double sells = double.Parse(Console.ReadLine());
 
-            double commision = -1;
+            double commision = -1.0;
 
             if (sells >= 0 && sells <= 500)
             {
@@ -92,7 +92,7 @@ namespace TradeComissions
                 Console.WriteLine("error");
             }
 
-            if (commision != -1)
+            if (commision > 0)
             {
                 Console.WriteLine($"{commision:F2}");
             }
