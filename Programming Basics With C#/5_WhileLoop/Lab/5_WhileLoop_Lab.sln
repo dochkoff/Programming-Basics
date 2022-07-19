@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_NumberInRange1_100", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xTest", "xTest\xTest.csproj", "{2A63BA74-7E13-4CA5-B671-9F450FE65F3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Graduation", "02_Graduation\02_Graduation.csproj", "{D8A05D32-A7FE-4431-9AF9-81D2D689FA0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,5 +21,9 @@ Global
 		{2A63BA74-7E13-4CA5-B671-9F450FE65F3F}.Debug|x86.Build.0 = Debug|x86
 		{2A63BA74-7E13-4CA5-B671-9F450FE65F3F}.Release|x86.ActiveCfg = Release|x86
 		{2A63BA74-7E13-4CA5-B671-9F450FE65F3F}.Release|x86.Build.0 = Release|x86
+		{D8A05D32-A7FE-4431-9AF9-81D2D689FA0D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D8A05D32-A7FE-4431-9AF9-81D2D689FA0D}.Debug|x86.Build.0 = Debug|Any CPU
+		{D8A05D32-A7FE-4431-9AF9-81D2D689FA0D}.Release|x86.ActiveCfg = Release|Any CPU
+		{D8A05D32-A7FE-4431-9AF9-81D2D689FA0D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
