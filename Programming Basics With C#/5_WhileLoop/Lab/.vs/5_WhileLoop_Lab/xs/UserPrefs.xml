@@ -7,7 +7,7 @@
   <DisabledProjects>
     <String>01NumberInRange1_100/01NumberInRange1_100.csproj</String>
   </DisabledProjects>
-  <MonoDevelop.Ide.ItemProperties.02__Graduation FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03__GraduationPartII FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="xTest/Program.cs">
     <Files>
       <File FileName="01_NumberInRange1_100/01_NumberInRange1_100.cs" Line="1" Column="1" />

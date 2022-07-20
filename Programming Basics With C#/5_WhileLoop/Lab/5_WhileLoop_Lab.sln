@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xTest", "xTest\xTest.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Graduation", "02_Graduation\02_Graduation.csproj", "{D8A05D32-A7FE-4431-9AF9-81D2D689FA0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_GraduationPartII", "03_GraduationPartII\03_GraduationPartII.csproj", "{CA38EA26-1335-449D-AE94-AF31F6FB83AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,5 +27,9 @@ Global
 		{D8A05D32-A7FE-4431-9AF9-81D2D689FA0D}.Debug|x86.Build.0 = Debug|Any CPU
 		{D8A05D32-A7FE-4431-9AF9-81D2D689FA0D}.Release|x86.ActiveCfg = Release|Any CPU
 		{D8A05D32-A7FE-4431-9AF9-81D2D689FA0D}.Release|x86.Build.0 = Release|Any CPU
+		{CA38EA26-1335-449D-AE94-AF31F6FB83AE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CA38EA26-1335-449D-AE94-AF31F6FB83AE}.Debug|x86.Build.0 = Debug|Any CPU
+		{CA38EA26-1335-449D-AE94-AF31F6FB83AE}.Release|x86.ActiveCfg = Release|Any CPU
+		{CA38EA26-1335-449D-AE94-AF31F6FB83AE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
