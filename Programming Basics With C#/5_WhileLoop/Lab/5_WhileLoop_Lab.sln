@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_NumberInRange1_100", "01_NumberInRange1_100\01_NumberInRange1_100.csproj", "{6AB418E0-842B-4B29-AE40-78292A122EB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xTest", "xTest\xTest.csproj", "{2A63BA74-7E13-4CA5-B671-9F450FE65F3F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Graduation", "02_Graduation\02_Graduation.csproj", "{D8A05D32-A7FE-4431-9AF9-81D2D689FA0D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_GraduationPartII", "03_GraduationPartII\03_GraduationPartII.csproj", "{CA38EA26-1335-449D-AE94-AF31F6FB83AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_IntegerInRow", "04_IntegerInRow\04_IntegerInRow.csproj", "{3F2AFFFF-DFFE-4F1C-9879-82B07FCAB66F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,6 @@ Global
 		{6AB418E0-842B-4B29-AE40-78292A122EB9}.Debug|x86.Build.0 = Debug|x86
 		{6AB418E0-842B-4B29-AE40-78292A122EB9}.Release|x86.ActiveCfg = Release|x86
 		{6AB418E0-842B-4B29-AE40-78292A122EB9}.Release|x86.Build.0 = Release|x86
-		{2A63BA74-7E13-4CA5-B671-9F450FE65F3F}.Debug|x86.ActiveCfg = Debug|x86
-		{2A63BA74-7E13-4CA5-B671-9F450FE65F3F}.Debug|x86.Build.0 = Debug|x86
-		{2A63BA74-7E13-4CA5-B671-9F450FE65F3F}.Release|x86.ActiveCfg = Release|x86
-		{2A63BA74-7E13-4CA5-B671-9F450FE65F3F}.Release|x86.Build.0 = Release|x86
 		{D8A05D32-A7FE-4431-9AF9-81D2D689FA0D}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{D8A05D32-A7FE-4431-9AF9-81D2D689FA0D}.Debug|x86.Build.0 = Debug|Any CPU
 		{D8A05D32-A7FE-4431-9AF9-81D2D689FA0D}.Release|x86.ActiveCfg = Release|Any CPU
@@ -31,5 +27,9 @@ Global
 		{CA38EA26-1335-449D-AE94-AF31F6FB83AE}.Debug|x86.Build.0 = Debug|Any CPU
 		{CA38EA26-1335-449D-AE94-AF31F6FB83AE}.Release|x86.ActiveCfg = Release|Any CPU
 		{CA38EA26-1335-449D-AE94-AF31F6FB83AE}.Release|x86.Build.0 = Release|Any CPU
+		{3F2AFFFF-DFFE-4F1C-9879-82B07FCAB66F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3F2AFFFF-DFFE-4F1C-9879-82B07FCAB66F}.Debug|x86.Build.0 = Debug|Any CPU
+		{3F2AFFFF-DFFE-4F1C-9879-82B07FCAB66F}.Release|x86.ActiveCfg = Release|Any CPU
+		{3F2AFFFF-DFFE-4F1C-9879-82B07FCAB66F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
