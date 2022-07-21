@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_GraduationPartII", "03_G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_IntegerInRow", "04_IntegerInRow\04_IntegerInRow.csproj", "{3F2AFFFF-DFFE-4F1C-9879-82B07FCAB66F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Steps", "05_Steps\05_Steps.csproj", "{D2BFD827-2194-4FC6-AC3C-F5D26F7A547D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,5 +33,9 @@ Global
 		{3F2AFFFF-DFFE-4F1C-9879-82B07FCAB66F}.Debug|x86.Build.0 = Debug|Any CPU
 		{3F2AFFFF-DFFE-4F1C-9879-82B07FCAB66F}.Release|x86.ActiveCfg = Release|Any CPU
 		{3F2AFFFF-DFFE-4F1C-9879-82B07FCAB66F}.Release|x86.Build.0 = Release|Any CPU
+		{D2BFD827-2194-4FC6-AC3C-F5D26F7A547D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D2BFD827-2194-4FC6-AC3C-F5D26F7A547D}.Debug|x86.Build.0 = Debug|Any CPU
+		{D2BFD827-2194-4FC6-AC3C-F5D26F7A547D}.Release|x86.ActiveCfg = Release|Any CPU
+		{D2BFD827-2194-4FC6-AC3C-F5D26F7A547D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
