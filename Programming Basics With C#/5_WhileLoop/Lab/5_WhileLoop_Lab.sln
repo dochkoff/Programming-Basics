@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Steps", "05_Steps\05_Ste
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_AccountBalance", "06_AccountBalance\06_AccountBalance.csproj", "{71860639-5C92-415D-95FF-71385E1E7E3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_GlassWithWater", "07_GlassWithWater\07_GlassWithWater.csproj", "{2CC01592-EE6A-4585-8B5F-9D41B7423076}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -43,5 +45,9 @@ Global
 		{71860639-5C92-415D-95FF-71385E1E7E3B}.Debug|x86.Build.0 = Debug|Any CPU
 		{71860639-5C92-415D-95FF-71385E1E7E3B}.Release|x86.ActiveCfg = Release|Any CPU
 		{71860639-5C92-415D-95FF-71385E1E7E3B}.Release|x86.Build.0 = Release|Any CPU
+		{2CC01592-EE6A-4585-8B5F-9D41B7423076}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2CC01592-EE6A-4585-8B5F-9D41B7423076}.Debug|x86.Build.0 = Debug|Any CPU
+		{2CC01592-EE6A-4585-8B5F-9D41B7423076}.Release|x86.ActiveCfg = Release|Any CPU
+		{2CC01592-EE6A-4585-8B5F-9D41B7423076}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
