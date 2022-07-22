@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_IntegerInRow", "04_Integ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Steps", "05_Steps\05_Steps.csproj", "{D2BFD827-2194-4FC6-AC3C-F5D26F7A547D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_AccountBalance", "06_AccountBalance\06_AccountBalance.csproj", "{71860639-5C92-415D-95FF-71385E1E7E3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,5 +39,9 @@ Global
 		{D2BFD827-2194-4FC6-AC3C-F5D26F7A547D}.Debug|x86.Build.0 = Debug|Any CPU
 		{D2BFD827-2194-4FC6-AC3C-F5D26F7A547D}.Release|x86.ActiveCfg = Release|Any CPU
 		{D2BFD827-2194-4FC6-AC3C-F5D26F7A547D}.Release|x86.Build.0 = Release|Any CPU
+		{71860639-5C92-415D-95FF-71385E1E7E3B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{71860639-5C92-415D-95FF-71385E1E7E3B}.Debug|x86.Build.0 = Debug|Any CPU
+		{71860639-5C92-415D-95FF-71385E1E7E3B}.Release|x86.ActiveCfg = Release|Any CPU
+		{71860639-5C92-415D-95FF-71385E1E7E3B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

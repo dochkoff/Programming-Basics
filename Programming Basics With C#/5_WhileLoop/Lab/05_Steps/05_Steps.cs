@@ -9,7 +9,7 @@ namespace _05_Steps
             int totalSteps = 0;
 
 
-            while (true)
+            while (totalSteps < 10000)
             {
                 string command = Console.ReadLine();
 
@@ -18,18 +18,7 @@ namespace _05_Steps
                     totalSteps += int.Parse(Console.ReadLine());
                     break;
                 }
-
-                if (totalSteps < 10000)
-                {
-                    totalSteps += int.Parse(command);
-                }
-
-                if (totalSteps >= 10000)
-                {
-                    break;
-                }
-
-
+                totalSteps += int.Parse(command);
             }
 
             if (totalSteps >= 10000)
