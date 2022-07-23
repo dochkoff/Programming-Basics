@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/6_ForLoop/Lab/09_CleverLily/bin/Debug/09CleverLily.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/6_ForLoop/Lab/09_CleverLily/bin/Debug/09CleverLily.pdb
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/6_ForLoop/Lab/09_CleverLily/obj/x86/Debug/09_CleverLily.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/6_ForLoop/Lab/09_CleverLily/obj/x86/Debug/09CleverLily.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/6_ForLoop/Lab/09_CleverLily/obj/x86/Debug/09CleverLily.pdb

@@ -33,8 +33,8 @@ namespace VowelsSum
                         sum += 5;
                         break;
                 }
-                Console.WriteLine(sum);
             }
+            Console.WriteLine(sum);
         }
     }
 }

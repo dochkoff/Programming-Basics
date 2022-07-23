@@ -7,36 +7,36 @@ namespace CleverLily
         public static void Main(string[] args)
         {
             int age = int.Parse(Console.ReadLine());
-            double washingMachinePrice = double.Parse(Console.ReadLine());
-            int toyPrice = int.Parse(Console.ReadLine());
+            double washingmachinePrice = double.Parse(Console.ReadLine());
+            int pricePerToy = int.Parse(Console.ReadLine());
 
-            int toysCount = 0;
-            double lastSum = 0;
-            double money = 0;
+            int counterOddBD = 0;
+            int counterEvenBD = 0;
+            int savedSum = 0;
 
-            for (int year = 1; year <= age; year++)
+            for (int i = 1; i <= age; i++)
             {
-                if (year % 2 == 1)
+                if (i % 2 == 0)
                 {
-                    toysCount++;
+                    counterEvenBD++;
+                    savedSum += counterEvenBD * 10 - 1;
                 }
                 else
                 {
-                    lastSum += 10;
-                    money += lastSum;
-                    money -= 1;
+                    counterOddBD++;
                 }
             }
 
-            money += toysCount * toyPrice;
+            int sumFromToys = counterOddBD * pricePerToy;
+            savedSum += sumFromToys;
 
-            if (money < washingMachinePrice)
+            if (savedSum >= washingmachinePrice)
             {
-                Console.WriteLine($"No! {(washingMachinePrice - money):F2}");
+                Console.WriteLine($"Yes! {savedSum - washingmachinePrice:F2}");
             }
             else
             {
-                Console.WriteLine($"Yes! {(money - washingMachinePrice):F2}");
+                Console.WriteLine($"No! {washingmachinePrice - savedSum:F2}");
             }
         }
     }
