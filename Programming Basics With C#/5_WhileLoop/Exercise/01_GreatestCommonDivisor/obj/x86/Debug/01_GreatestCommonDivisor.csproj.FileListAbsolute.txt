@@ -1,0 +1,6 @@
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/5_WhileLoop/Exercise/01_GreatestCommonDivisor/bin/Debug/01GreatestCommonDivisor.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/5_WhileLoop/Exercise/01_GreatestCommonDivisor/bin/Debug/01GreatestCommonDivisor.pdb
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/5_WhileLoop/Exercise/01_GreatestCommonDivisor/obj/x86/Debug/01_GreatestCommonDivisor.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/5_WhileLoop/Exercise/01_GreatestCommonDivisor/obj/x86/Debug/01_GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/5_WhileLoop/Exercise/01_GreatestCommonDivisor/obj/x86/Debug/01GreatestCommonDivisor.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/5_WhileLoop/Exercise/01_GreatestCommonDivisor/obj/x86/Debug/01GreatestCommonDivisor.pdb
