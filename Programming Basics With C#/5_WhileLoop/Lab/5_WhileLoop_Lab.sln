@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_AccountBalance", "06_Acc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_GlassWithWater", "07_GlassWithWater\07_GlassWithWater.csproj", "{2CC01592-EE6A-4585-8B5F-9D41B7423076}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_NumbersInRow", "08_NumbersInRow\08_NumbersInRow.csproj", "{EB7CFB57-1C07-43B9-9852-A30E430A995C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Moving", "09_Moving\09_Moving.csproj", "{2E7F7A25-DC5F-45E6-9255-0F98E7A6D957}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -49,5 +53,13 @@ Global
 		{2CC01592-EE6A-4585-8B5F-9D41B7423076}.Debug|x86.Build.0 = Debug|Any CPU
 		{2CC01592-EE6A-4585-8B5F-9D41B7423076}.Release|x86.ActiveCfg = Release|Any CPU
 		{2CC01592-EE6A-4585-8B5F-9D41B7423076}.Release|x86.Build.0 = Release|Any CPU
+		{EB7CFB57-1C07-43B9-9852-A30E430A995C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EB7CFB57-1C07-43B9-9852-A30E430A995C}.Debug|x86.Build.0 = Debug|Any CPU
+		{EB7CFB57-1C07-43B9-9852-A30E430A995C}.Release|x86.ActiveCfg = Release|Any CPU
+		{EB7CFB57-1C07-43B9-9852-A30E430A995C}.Release|x86.Build.0 = Release|Any CPU
+		{2E7F7A25-DC5F-45E6-9255-0F98E7A6D957}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2E7F7A25-DC5F-45E6-9255-0F98E7A6D957}.Debug|x86.Build.0 = Debug|Any CPU
+		{2E7F7A25-DC5F-45E6-9255-0F98E7A6D957}.Release|x86.ActiveCfg = Release|Any CPU
+		{2E7F7A25-DC5F-45E6-9255-0F98E7A6D957}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
