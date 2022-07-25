@@ -6,11 +6,32 @@ namespace _00_Test
     {
         static void Main(string[] args)
         {
-            for (int i = 1; i < 1000; i++)
+            int n = int.Parse(Console.ReadLine());
+
+            double OddSum = 0.0;
+            double OddMin = double.MaxValue;
+            double OddMax = double.MinValue;
+            double EvenSum = 0.0;
+            double EvenMin = double.MaxValue;
+            double EvenMax = double.MinValue;
+
+            for (int i = 1; i <= n; i++) //
             {
-                if (i % 10 == 7)
+                double number = double.Parse(Console.ReadLine());
+
+                if (i % 2 != 0)
                 {
-                    Console.WriteLine(i);
+                    OddSum += number;
+
+                    if (number > OddMax)
+                    {
+                        OddMax = number;
+                    }
+
+                    if (number < OddMin)
+                    {
+                        OddMin = number;
+                    }
                 }
             }
         }
