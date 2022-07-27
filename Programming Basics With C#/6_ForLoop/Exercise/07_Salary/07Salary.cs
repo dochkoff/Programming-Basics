@@ -7,7 +7,7 @@ namespace Salary
         public static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            int selary = int.Parse(Console.ReadLine());
+            double salary = double.Parse(Console.ReadLine());
 
             for (int i = 0; i < n; i++)
             {
@@ -15,27 +15,30 @@ namespace Salary
 
                 if (siteName == "Facebook")
                 {
-                    selary -= 150;
+                    salary -= 150;
                 }
 
                 if (siteName == "Instagram")
                 {
-                    selary -= 100;
+                    salary -= 100;
                 }
 
                 if (siteName == "Reddit")
                 {
-                    selary -= 50;
+                    salary -= 50;
                 }
 
-                if (selary <= 0)
+                if (salary <= 0)
                 {
                     Console.WriteLine("You have lost your salary.");
-                    return;
+                    break;
                 }
             }
 
-            Console.WriteLine(selary);
+            if (salary > 0)
+            {
+                Console.WriteLine(Math.Round(salary));
+            }
         }
     }
 }
