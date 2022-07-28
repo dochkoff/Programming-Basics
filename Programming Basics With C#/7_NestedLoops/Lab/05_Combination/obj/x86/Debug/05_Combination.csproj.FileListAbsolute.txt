@@ -1,0 +1,5 @@
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Lab/05_Combination/bin/Debug/05Combination.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Lab/05_Combination/bin/Debug/05Combination.pdb
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Lab/05_Combination/obj/x86/Debug/05_Combination.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Lab/05_Combination/obj/x86/Debug/05Combination.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Lab/05_Combination/obj/x86/Debug/05Combination.pdb
