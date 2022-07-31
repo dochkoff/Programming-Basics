@@ -11,7 +11,7 @@ namespace Coding
             for (int i = 1; i <= n.ToString().Length; i++)
             {
                 int count = n % 10;
-                n = n / 10;
+                n /= 10;
 
                 if (count == 0)
                 {

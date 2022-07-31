@@ -1,14 +1,19 @@
 ﻿<Properties StartupConfiguration="{13EDF113-6E99-4E97-B1E6-B98CE37AAF13}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.00__Test FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.11__SpecialNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05__EqualSumsEvenOddPosition FirstBuild="True" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="05_EqualSumsEvenOddPosition/05_EqualSumsEvenOddPosition.cs">
+    <Files>
+      <File FileName="05_EqualSumsEvenOddPosition/Program.cs" Line="9" Column="47" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="7_NestedLoops_Exercise" expanded="True" selected="True" />
+          <Node name="7_NestedLoops_Exercise" expanded="True">
+            <Node name="05_EqualSumsEvenOddPosition" expanded="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -16,5 +21,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

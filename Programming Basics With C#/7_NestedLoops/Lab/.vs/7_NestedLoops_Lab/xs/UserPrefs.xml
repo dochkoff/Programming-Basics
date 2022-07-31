@@ -4,11 +4,16 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.01__NumbersN1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="07_NameWars/07NameWars.cs">
+    <Files>
+      <File FileName="07_NameWars/07NameWars.cs" Line="32" Column="64" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="7_NestedLoops_Lab" expanded="True" selected="True" />
+          <Node name="7_NestedLoops_Lab" expanded="True" selected="True">
+            <Node name="07_NameWars" expanded="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
