@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_TrainTheTrainers", "08_T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_EqualSumsEvenOddPosition", "05_EqualSumsEvenOddPosition\05_EqualSumsEvenOddPosition.csproj", "{E7658285-A3F0-4EE6-B3A7-079F22271F85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_SumEqualRightAndLeftPositions", "06_SumEqualRightAndLeftPositions\06_SumEqualRightAndLeftPositions.csproj", "{B8316EA7-07BE-40A6-97A4-9CA1D8129022}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -49,5 +51,9 @@ Global
 		{E7658285-A3F0-4EE6-B3A7-079F22271F85}.Debug|x86.Build.0 = Debug|Any CPU
 		{E7658285-A3F0-4EE6-B3A7-079F22271F85}.Release|x86.ActiveCfg = Release|Any CPU
 		{E7658285-A3F0-4EE6-B3A7-079F22271F85}.Release|x86.Build.0 = Release|Any CPU
+		{B8316EA7-07BE-40A6-97A4-9CA1D8129022}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B8316EA7-07BE-40A6-97A4-9CA1D8129022}.Debug|x86.Build.0 = Debug|Any CPU
+		{B8316EA7-07BE-40A6-97A4-9CA1D8129022}.Release|x86.ActiveCfg = Release|Any CPU
+		{B8316EA7-07BE-40A6-97A4-9CA1D8129022}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -11,25 +11,25 @@ namespace _05_EqualSumsEvenOddPosition
 
             int oddSum = 0;
             int evenSum = 0;
-            int count = 0;
 
             for (int i = n1; i <= n2; i++)
             {
+                int p = i;
                 for (int x = 0; x < 3; x++)
                 {
-                    count = i % 10;
+                    int count = p % 10;
                     evenSum += count;
-                    i /= 10;
+                    p /= 10;
 
-                    if (i < 10)
+                    if (p < 10)
                     {
-                        oddSum += i;
+                        oddSum += p;
                     }
                     else
                     {
-                        count = i % 10;
+                        count = p % 10;
                         oddSum += count;
-                        i /= 10;
+                        p /= 10;
                     }
                 }
 
@@ -43,4 +43,3 @@ namespace _05_EqualSumsEvenOddPosition
         }
     }
 }
-
