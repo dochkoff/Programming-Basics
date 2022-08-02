@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_SumEqualRightAndLeftPosi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_SumPrimeNonPrime", "07_SumPrimeNonPrime\07_SumPrimeNonPrime.csproj", "{CC73CECE-BF9B-452F-B390-AD1883B69487}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Outing", "09_Outing\09_Outing.csproj", "{49884099-489D-47D1-9072-B6714A8713EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_PasswordGenerator", "10_PasswordGenerator\10_PasswordGenerator.csproj", "{70F32762-7146-4C0F-9EAA-353468197771}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -61,5 +65,13 @@ Global
 		{CC73CECE-BF9B-452F-B390-AD1883B69487}.Debug|x86.Build.0 = Debug|Any CPU
 		{CC73CECE-BF9B-452F-B390-AD1883B69487}.Release|x86.ActiveCfg = Release|Any CPU
 		{CC73CECE-BF9B-452F-B390-AD1883B69487}.Release|x86.Build.0 = Release|Any CPU
+		{49884099-489D-47D1-9072-B6714A8713EE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{49884099-489D-47D1-9072-B6714A8713EE}.Debug|x86.Build.0 = Debug|Any CPU
+		{49884099-489D-47D1-9072-B6714A8713EE}.Release|x86.ActiveCfg = Release|Any CPU
+		{49884099-489D-47D1-9072-B6714A8713EE}.Release|x86.Build.0 = Release|Any CPU
+		{70F32762-7146-4C0F-9EAA-353468197771}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{70F32762-7146-4C0F-9EAA-353468197771}.Debug|x86.Build.0 = Debug|Any CPU
+		{70F32762-7146-4C0F-9EAA-353468197771}.Release|x86.ActiveCfg = Release|Any CPU
+		{70F32762-7146-4C0F-9EAA-353468197771}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

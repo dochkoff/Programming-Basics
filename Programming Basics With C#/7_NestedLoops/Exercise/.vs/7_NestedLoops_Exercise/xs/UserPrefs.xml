@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{CC73CECE-BF9B-452F-B390-AD1883B69487}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.11__SpecialNumbers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="07_SumPrimeNonPrime/07_SumPrimeNonPrime.cs">
-    <Files>
-      <File FileName="07_SumPrimeNonPrime/Program.cs" Line="16" Column="1" />
-    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="7_NestedLoops_Exercise" expanded="True" />
+          <Node name="7_NestedLoops_Exercise" expanded="True">
+            <Node name="08_TrainTheTrainers" expanded="True">
+              <Node name="08TrainTheTrainers.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -15,16 +17,14 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.07__SumPrimeNonPrime PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.05__EqualSumsEvenOddPosition PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/07_SumPrimeNonPrime/07_SumPrimeNonPrime.cs" relfile="07_SumPrimeNonPrime/07_SumPrimeNonPrime.cs" line="19" column="1" />
-      <Breakpoint file="/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/07_SumPrimeNonPrime/07_SumPrimeNonPrime.cs" relfile="07_SumPrimeNonPrime/07_SumPrimeNonPrime.cs" line="13" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.11__SpecialNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.06__SumEqualRightAndLeftPositions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.09__Outing FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.10__PasswordGenerator FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.05__EqualSumsEvenOddPosition PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.07__SumPrimeNonPrime PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/07_SumPrimeNonPrime/07_SumPrimeNonPrime.cs" relfile="07_SumPrimeNonPrime/07_SumPrimeNonPrime.cs" line="19" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
