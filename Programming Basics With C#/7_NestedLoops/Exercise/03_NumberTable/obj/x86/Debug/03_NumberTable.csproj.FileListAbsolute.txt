@@ -1,0 +1,6 @@
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/03_NumberTable/bin/Debug/03NumberTable.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/03_NumberTable/bin/Debug/03NumberTable.pdb
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/03_NumberTable/obj/x86/Debug/03_NumberTable.csproj.AssemblyReference.cache
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/03_NumberTable/obj/x86/Debug/03_NumberTable.csproj.CoreCompileInputs.cache
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/03_NumberTable/obj/x86/Debug/03NumberTable.exe
+/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/03_NumberTable/obj/x86/Debug/03NumberTable.pdb

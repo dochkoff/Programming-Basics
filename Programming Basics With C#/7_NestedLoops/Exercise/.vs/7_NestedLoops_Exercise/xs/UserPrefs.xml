@@ -19,8 +19,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.06__SumEqualRightAndLeftPositions PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.09__Outing FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.10__PasswordGenerator FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.00__Test FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.05__EqualSumsEvenOddPosition PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.07__SumPrimeNonPrime PreferredExecutionTarget="MonoDevelop.Default" />
