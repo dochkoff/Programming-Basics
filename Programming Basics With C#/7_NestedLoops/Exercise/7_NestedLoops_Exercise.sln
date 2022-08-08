@@ -23,8 +23,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Outing", "09_Outing\09_O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_PasswordGenerator", "10_PasswordGenerator\10_PasswordGenerator.csproj", "{70F32762-7146-4C0F-9EAA-353468197771}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Test", "00_Test\00_Test.csproj", "{4B33B008-542E-4537-A079-493F8E16C7EB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -75,9 +73,5 @@ Global
 		{70F32762-7146-4C0F-9EAA-353468197771}.Debug|x86.Build.0 = Debug|Any CPU
 		{70F32762-7146-4C0F-9EAA-353468197771}.Release|x86.ActiveCfg = Release|Any CPU
 		{70F32762-7146-4C0F-9EAA-353468197771}.Release|x86.Build.0 = Release|Any CPU
-		{4B33B008-542E-4537-A079-493F8E16C7EB}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{4B33B008-542E-4537-A079-493F8E16C7EB}.Debug|x86.Build.0 = Debug|Any CPU
-		{4B33B008-542E-4537-A079-493F8E16C7EB}.Release|x86.ActiveCfg = Release|Any CPU
-		{4B33B008-542E-4537-A079-493F8E16C7EB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
