@@ -1,9 +1,19 @@
-﻿<Properties StartupConfiguration="{D1A7ED14-9F29-45C8-A4A6-46C443BE75F3}|Default">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{8ED395C9-92A9-4F7A-B3D5-64D9441A38B1}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.01__StadiumIncome PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="00_Temp/Temp.cs">
+    <Files>
+      <File FileName="00_Temp/Program.cs" Line="19" Column="45" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="8_Exam_Preparation" expanded="True" selected="True" />
+          <Node name="8_Exam_Preparation" expanded="True" selected="True">
+            <Node name="00_Temp" expanded="True" />
+            <Node name="02_BeerAndChips" expanded="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -11,11 +21,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.01__StadiumIncome PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.00__Temp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
 </Properties>
