@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_FanShop", "05_FanShop\05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_TicketCombination", "06_TicketCombination\06_TicketCombination.csproj", "{D1513CCF-DF47-4B63-B8DA-C11CA9326AB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Temp", "00_Temp\00_Temp.csproj", "{8ED395C9-92A9-4F7A-B3D5-64D9441A38B1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -45,9 +43,5 @@ Global
 		{D1513CCF-DF47-4B63-B8DA-C11CA9326AB5}.Debug|x86.Build.0 = Debug|x86
 		{D1513CCF-DF47-4B63-B8DA-C11CA9326AB5}.Release|x86.ActiveCfg = Release|x86
 		{D1513CCF-DF47-4B63-B8DA-C11CA9326AB5}.Release|x86.Build.0 = Release|x86
-		{8ED395C9-92A9-4F7A-B3D5-64D9441A38B1}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{8ED395C9-92A9-4F7A-B3D5-64D9441A38B1}.Debug|x86.Build.0 = Debug|Any CPU
-		{8ED395C9-92A9-4F7A-B3D5-64D9441A38B1}.Release|x86.ActiveCfg = Release|Any CPU
-		{8ED395C9-92A9-4F7A-B3D5-64D9441A38B1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

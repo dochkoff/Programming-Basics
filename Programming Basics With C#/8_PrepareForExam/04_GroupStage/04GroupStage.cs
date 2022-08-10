@@ -1,48 +1,46 @@
 ﻿using System;
 
-namespace GroupStage
+namespace FootballSouvenirs
 {
     class MainClass
     {
         public static void Main(string[] args)
         {
             string teamName = Console.ReadLine();
-            int gamemsCount = int.Parse(Console.ReadLine());
+            int playedGames = int.Parse(Console.ReadLine());
 
-            int makeGoals = 0;
-            int inGoals = 0;
-            int makeGoalsSum = 0;
-            int inGoalsSum = 0;
-            int points = 0;
+            int totalTeamScore = 0;
+            int totalOponentScore = 0;
+            int teamPoints = 0;
 
-            for (int i = 0; i < gamemsCount; i++)
+            for (int i = 0; i < playedGames; i++)
             {
-                makeGoals = int.Parse(Console.ReadLine());
-                inGoals = int.Parse(Console.ReadLine());
-                makeGoalsSum += makeGoals;
-                inGoalsSum += inGoals;
+                int teamScore = int.Parse(Console.ReadLine());
+                int oponentScore = int.Parse(Console.ReadLine());
 
-                if (makeGoals - inGoals > 0)
+                totalTeamScore += teamScore;
+                totalOponentScore += oponentScore;
+
+                if (teamScore > oponentScore)
                 {
-                    points += 3;
+                    teamPoints += 3;
                 }
-                else if (makeGoals - inGoals == 0)
+                else if (teamScore == oponentScore)
                 {
-                    points += 1;
+                    teamPoints += 1;
                 }
             }
 
-            if (makeGoalsSum >= inGoalsSum)
+            if (totalTeamScore >= totalOponentScore)
             {
-                Console.WriteLine($"{teamName} has finished the group phase with {points} points.");
-                Console.WriteLine($"Goal difference: {makeGoalsSum - inGoalsSum}.");
+                Console.WriteLine($"{teamName} has finished the group phase with {teamPoints} points.");
+                Console.WriteLine($"Goal difference: {totalTeamScore - totalOponentScore}.");
             }
             else
             {
                 Console.WriteLine($"{teamName} has been eliminated from the group phase.");
-                Console.WriteLine($"Goal difference: {makeGoalsSum - inGoalsSum}.");
+                Console.WriteLine($"Goal difference: {totalOponentScore - totalTeamScore}.");
             }
-
         }
     }
 }
