@@ -454,3 +454,14 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,macos,visualstudiocode
+Programming Basics With C\#/1_FirstStepsInCoding/.DS_Store
+*.json
+*.xml
+Programming Basics With C\#/1_FirstStepsInCoding/.DS_Store
+Programming Basics With C\#/1_FirstStepsInCoding/.vs/1_FirstStepsInCoding_Exercises/xs/project-cache/01HelloWorld-Debug|x86.json
+Programming Basics With C\#/1_FirstStepsInCoding/.vs/1_FirstStepsInCoding_Exercises/xs/project-cache/02Expression-Debug|x86.json
+Programming Basics With C\#/1_FirstStepsInCoding/.vs/1_FirstStepsInCoding_Exercises/xs/project-cache/03Numbers1to20-Debug|x86.json
+Programming Basics With C\#/1_FirstStepsInCoding/.vs/1_FirstStepsInCoding_Exercises/xs/project-cache/04RectangleArea-Debug|x86.json
+Programming Basics With C\#/1_FirstStepsInCoding/.vs/1_FirstStepsInCoding_Exercises/xs/UserPrefs.xml
+Programming Basics With C\#/1_FirstStepsInCoding/01.HelloWorld/.DS_Store
+Programming Basics With C\#/4_NestedConditionalStatements/Exsercise/.DS_Store
