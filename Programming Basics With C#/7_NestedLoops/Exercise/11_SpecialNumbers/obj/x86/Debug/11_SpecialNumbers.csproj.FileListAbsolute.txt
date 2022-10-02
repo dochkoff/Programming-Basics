@@ -1,6 +1,0 @@
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/11_SpecialNumbers/bin/Debug/11SpecialNumbers.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/11_SpecialNumbers/bin/Debug/11SpecialNumbers.pdb
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/11_SpecialNumbers/obj/x86/Debug/11_SpecialNumbers.csproj.AssemblyReference.cache
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/11_SpecialNumbers/obj/x86/Debug/11_SpecialNumbers.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/11_SpecialNumbers/obj/x86/Debug/11SpecialNumbers.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/11_SpecialNumbers/obj/x86/Debug/11SpecialNumbers.pdb

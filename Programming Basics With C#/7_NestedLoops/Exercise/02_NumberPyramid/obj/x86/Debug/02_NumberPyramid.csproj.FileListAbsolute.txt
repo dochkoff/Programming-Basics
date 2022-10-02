@@ -1,6 +1,0 @@
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/02_NumberPyramid/bin/Debug/02NumberPyramid.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/02_NumberPyramid/bin/Debug/02NumberPyramid.pdb
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/02_NumberPyramid/obj/x86/Debug/02_NumberPyramid.csproj.AssemblyReference.cache
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/02_NumberPyramid/obj/x86/Debug/02_NumberPyramid.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/02_NumberPyramid/obj/x86/Debug/02NumberPyramid.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Exercise/02_NumberPyramid/obj/x86/Debug/02NumberPyramid.pdb

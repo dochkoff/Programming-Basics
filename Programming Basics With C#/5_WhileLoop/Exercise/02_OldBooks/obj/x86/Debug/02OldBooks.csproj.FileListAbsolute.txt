@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/5_WhileLoop_HW/02OldBooks/bin/Debug/02OldBooks.exe
-/Users/Dochkoff/Projects/5_WhileLoop_HW/02OldBooks/bin/Debug/02OldBooks.pdb
-/Users/Dochkoff/Projects/5_WhileLoop_HW/02OldBooks/obj/x86/Debug/02OldBooks.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/5_WhileLoop_HW/02OldBooks/obj/x86/Debug/02OldBooks.exe
-/Users/Dochkoff/Projects/5_WhileLoop_HW/02OldBooks/obj/x86/Debug/02OldBooks.pdb

@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Lab/10_ToyShop/bin/Debug/Lab10ToyShop.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Lab/10_ToyShop/bin/Debug/Lab10ToyShop.pdb
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Lab/10_ToyShop/obj/x86/Debug/10_ToyShop.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Lab/10_ToyShop/obj/x86/Debug/Lab10ToyShop.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Lab/10_ToyShop/obj/x86/Debug/Lab10ToyShop.pdb

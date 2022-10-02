@@ -1,5 +1,0 @@
-/Users/dochkoff/Projects/3_ConditionalStatements_201018/Lab3/bin/Debug/Lab3.exe
-/Users/dochkoff/Projects/3_ConditionalStatements_201018/Lab3/bin/Debug/Lab3.pdb
-/Users/dochkoff/Projects/3_ConditionalStatements_201018/Lab3/obj/x86/Debug/Lab3.csproj.CoreCompileInputs.cache
-/Users/dochkoff/Projects/3_ConditionalStatements_201018/Lab3/obj/x86/Debug/Lab3.exe
-/Users/dochkoff/Projects/3_ConditionalStatements_201018/Lab3/obj/x86/Debug/Lab3.pdb

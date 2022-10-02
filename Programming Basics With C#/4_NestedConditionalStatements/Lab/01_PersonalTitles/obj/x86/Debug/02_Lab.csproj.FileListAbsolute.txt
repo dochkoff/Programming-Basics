@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_271018/02_Lab/bin/Debug/02_Lab.exe
-/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_271018/02_Lab/bin/Debug/02_Lab.pdb
-/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_271018/02_Lab/obj/x86/Debug/02_Lab.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_271018/02_Lab/obj/x86/Debug/02_Lab.exe
-/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_271018/02_Lab/obj/x86/Debug/02_Lab.pdb

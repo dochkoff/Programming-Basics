@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Lab04TrapeziodArea/bin/Debug/Lab04TrapeziodArea.exe
-/Users/Dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Lab04TrapeziodArea/bin/Debug/Lab04TrapeziodArea.pdb
-/Users/Dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Lab04TrapeziodArea/obj/x86/Debug/Lab04TrapeziodArea.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Lab04TrapeziodArea/obj/x86/Debug/Lab04TrapeziodArea.exe
-/Users/Dochkoff/Projects/ProgrammingBasics18/2_SimpleOperationsAndCalculations_131018/Lab04TrapeziodArea/obj/x86/Debug/Lab04TrapeziodArea.pdb

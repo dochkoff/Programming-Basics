@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/6_ForLoop_HW/07Salary/bin/Debug/07Salary.exe
-/Users/Dochkoff/Projects/6_ForLoop_HW/07Salary/bin/Debug/07Salary.pdb
-/Users/Dochkoff/Projects/6_ForLoop_HW/07Salary/obj/x86/Debug/07Salary.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/6_ForLoop_HW/07Salary/obj/x86/Debug/07Salary.exe
-/Users/Dochkoff/Projects/6_ForLoop_HW/07Salary/obj/x86/Debug/07Salary.pdb

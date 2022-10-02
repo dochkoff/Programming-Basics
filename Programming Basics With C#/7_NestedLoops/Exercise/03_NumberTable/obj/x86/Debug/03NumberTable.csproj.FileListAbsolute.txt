@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/07_NestedLoops_HW/03NumberTable/bin/Debug/03NumberTable.exe
-/Users/Dochkoff/Projects/07_NestedLoops_HW/03NumberTable/bin/Debug/03NumberTable.pdb
-/Users/Dochkoff/Projects/07_NestedLoops_HW/03NumberTable/obj/x86/Debug/03NumberTable.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/07_NestedLoops_HW/03NumberTable/obj/x86/Debug/03NumberTable.exe
-/Users/Dochkoff/Projects/07_NestedLoops_HW/03NumberTable/obj/x86/Debug/03NumberTable.pdb

@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/02.Expression/bin/Debug/02.Expression.exe
-/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/02.Expression/bin/Debug/02.Expression.pdb
-/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/02.Expression/obj/x86/Debug/02.Expression.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/02.Expression/obj/x86/Debug/02.Expression.exe
-/Users/Dochkoff/Projects/ProgrammingBasics18/1_FirstStepsInCoding_061018/02.Expression/obj/x86/Debug/02.Expression.pdb

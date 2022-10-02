@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/3_ConditionalStatements_HW/02.BonusScore/bin/Debug/02.BonusScore.exe
-/Users/Dochkoff/Projects/3_ConditionalStatements_HW/02.BonusScore/bin/Debug/02.BonusScore.pdb
-/Users/Dochkoff/Projects/3_ConditionalStatements_HW/02.BonusScore/obj/x86/Debug/02.BonusScore.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/3_ConditionalStatements_HW/02.BonusScore/obj/x86/Debug/02.BonusScore.exe
-/Users/Dochkoff/Projects/3_ConditionalStatements_HW/02.BonusScore/obj/x86/Debug/02.BonusScore.pdb

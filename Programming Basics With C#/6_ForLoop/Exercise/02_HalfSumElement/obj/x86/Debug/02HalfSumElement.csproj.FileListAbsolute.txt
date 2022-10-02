@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/6_ForLoop_HW/02HalfSumElement/bin/Debug/02HalfSumElement.exe
-/Users/Dochkoff/Projects/6_ForLoop_HW/02HalfSumElement/bin/Debug/02HalfSumElement.pdb
-/Users/Dochkoff/Projects/6_ForLoop_HW/02HalfSumElement/obj/x86/Debug/02HalfSumElement.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/6_ForLoop_HW/02HalfSumElement/obj/x86/Debug/02HalfSumElement.exe
-/Users/Dochkoff/Projects/6_ForLoop_HW/02HalfSumElement/obj/x86/Debug/02HalfSumElement.pdb

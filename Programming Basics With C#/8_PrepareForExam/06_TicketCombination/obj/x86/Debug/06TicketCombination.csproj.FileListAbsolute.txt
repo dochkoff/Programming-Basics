@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/08_PrepareForExam_24112018/06TicketCombination/bin/Debug/06TicketCombination.exe
-/Users/Dochkoff/Projects/08_PrepareForExam_24112018/06TicketCombination/bin/Debug/06TicketCombination.pdb
-/Users/Dochkoff/Projects/08_PrepareForExam_24112018/06TicketCombination/obj/x86/Debug/06TicketCombination.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/08_PrepareForExam_24112018/06TicketCombination/obj/x86/Debug/06TicketCombination.exe
-/Users/Dochkoff/Projects/08_PrepareForExam_24112018/06TicketCombination/obj/x86/Debug/06TicketCombination.pdb

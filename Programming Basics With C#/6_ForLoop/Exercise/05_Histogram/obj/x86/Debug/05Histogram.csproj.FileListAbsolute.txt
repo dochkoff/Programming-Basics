@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/6_ForLoop_HW/05Histogram/bin/Debug/05Histogram.exe
-/Users/Dochkoff/Projects/6_ForLoop_HW/05Histogram/bin/Debug/05Histogram.pdb
-/Users/Dochkoff/Projects/6_ForLoop_HW/05Histogram/obj/x86/Debug/05Histogram.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/6_ForLoop_HW/05Histogram/obj/x86/Debug/05Histogram.exe
-/Users/Dochkoff/Projects/6_ForLoop_HW/05Histogram/obj/x86/Debug/05Histogram.pdb

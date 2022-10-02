@@ -1,6 +1,0 @@
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/5_WhileLoop/Lab/01_NumberInRange1_100/obj/x86/Debug/01_NumberInRange1_100.csproj.AssemblyReference.cache
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/5_WhileLoop/Lab/01_NumberInRange1_100/obj/x86/Debug/01_NumberInRange1_100.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/5_WhileLoop/Lab/01_NumberInRange1_100/obj/x86/Debug/01NumberInRange1_100.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/5_WhileLoop/Lab/01_NumberInRange1_100/obj/x86/Debug/01NumberInRange1_100.pdb
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/5_WhileLoop/Lab/01_NumberInRange1_100/bin/Debug/01NumberInRange1_100.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/5_WhileLoop/Lab/01_NumberInRange1_100/bin/Debug/01NumberInRange1_100.pdb

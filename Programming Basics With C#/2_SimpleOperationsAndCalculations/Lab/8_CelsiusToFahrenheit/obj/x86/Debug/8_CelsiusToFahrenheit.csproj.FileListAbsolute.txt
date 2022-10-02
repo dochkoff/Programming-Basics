@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/8_CelsiusToFahrenheit/bin/Debug/Lab08CelsiusToFahrenheit.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/8_CelsiusToFahrenheit/bin/Debug/Lab08CelsiusToFahrenheit.pdb
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/8_CelsiusToFahrenheit/obj/x86/Debug/8_CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/8_CelsiusToFahrenheit/obj/x86/Debug/Lab08CelsiusToFahrenheit.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/2_SimpleOperationsAndCalculations/Lab/8_CelsiusToFahrenheit/obj/x86/Debug/Lab08CelsiusToFahrenheit.pdb

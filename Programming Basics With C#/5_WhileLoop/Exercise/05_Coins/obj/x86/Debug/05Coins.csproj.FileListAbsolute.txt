@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/5_WhileLoop_HW/05Coins/bin/Debug/05Coins.exe
-/Users/Dochkoff/Projects/5_WhileLoop_HW/05Coins/bin/Debug/05Coins.pdb
-/Users/Dochkoff/Projects/5_WhileLoop_HW/05Coins/obj/x86/Debug/05Coins.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/5_WhileLoop_HW/05Coins/obj/x86/Debug/05Coins.exe
-/Users/Dochkoff/Projects/5_WhileLoop_HW/05Coins/obj/x86/Debug/05Coins.pdb

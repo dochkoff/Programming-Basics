@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/07_NestedLoops_171118/09MagicNumbers/bin/Debug/09MagicNumbers.exe
-/Users/Dochkoff/Projects/07_NestedLoops_171118/09MagicNumbers/bin/Debug/09MagicNumbers.pdb
-/Users/Dochkoff/Projects/07_NestedLoops_171118/09MagicNumbers/obj/x86/Debug/09MagicNumbers.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/07_NestedLoops_171118/09MagicNumbers/obj/x86/Debug/09MagicNumbers.exe
-/Users/Dochkoff/Projects/07_NestedLoops_171118/09MagicNumbers/obj/x86/Debug/09MagicNumbers.pdb

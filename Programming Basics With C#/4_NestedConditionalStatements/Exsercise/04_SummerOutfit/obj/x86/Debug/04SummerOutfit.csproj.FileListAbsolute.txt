@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/04SummerOutfit/bin/Debug/04SummerOutfit.exe
-/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/04SummerOutfit/bin/Debug/04SummerOutfit.pdb
-/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/04SummerOutfit/obj/x86/Debug/04SummerOutfit.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/04SummerOutfit/obj/x86/Debug/04SummerOutfit.exe
-/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/04SummerOutfit/obj/x86/Debug/04SummerOutfit.pdb

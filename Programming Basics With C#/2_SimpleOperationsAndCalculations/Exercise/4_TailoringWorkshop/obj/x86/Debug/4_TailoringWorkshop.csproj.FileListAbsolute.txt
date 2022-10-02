@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise04TailoringWorkshop/bin/Debug/Exercise04TailoringWorkshop.exe
-/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise04TailoringWorkshop/bin/Debug/Exercise04TailoringWorkshop.pdb
-/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise04TailoringWorkshop/obj/x86/Debug/4_TailoringWorkshop.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise04TailoringWorkshop/obj/x86/Debug/Exercise04TailoringWorkshop.exe
-/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise04TailoringWorkshop/obj/x86/Debug/Exercise04TailoringWorkshop.pdb

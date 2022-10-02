@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/06FishingBoat/bin/Debug/06FishingBoat.exe
-/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/06FishingBoat/bin/Debug/06FishingBoat.pdb
-/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/06FishingBoat/obj/x86/Debug/06FishingBoat.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/06FishingBoat/obj/x86/Debug/06FishingBoat.exe
-/Users/Dochkoff/Projects/ProgrammingBasics18/4_NestedConditionalStatements_HW/06FishingBoat/obj/x86/Debug/06FishingBoat.pdb

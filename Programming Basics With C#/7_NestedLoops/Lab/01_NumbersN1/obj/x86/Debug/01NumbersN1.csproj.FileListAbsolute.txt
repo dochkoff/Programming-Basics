@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/07_NestedLoops_171118/01NumbersN1/bin/Debug/01NumbersN1.exe
-/Users/Dochkoff/Projects/07_NestedLoops_171118/01NumbersN1/bin/Debug/01NumbersN1.pdb
-/Users/Dochkoff/Projects/07_NestedLoops_171118/01NumbersN1/obj/x86/Debug/01NumbersN1.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/07_NestedLoops_171118/01NumbersN1/obj/x86/Debug/01NumbersN1.exe
-/Users/Dochkoff/Projects/07_NestedLoops_171118/01NumbersN1/obj/x86/Debug/01NumbersN1.pdb

@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/5_WhileLoop_HW/06Cake/bin/Debug/06Cake.exe
-/Users/Dochkoff/Projects/5_WhileLoop_HW/06Cake/bin/Debug/06Cake.pdb
-/Users/Dochkoff/Projects/5_WhileLoop_HW/06Cake/obj/x86/Debug/06Cake.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/5_WhileLoop_HW/06Cake/obj/x86/Debug/06Cake.exe
-/Users/Dochkoff/Projects/5_WhileLoop_HW/06Cake/obj/x86/Debug/06Cake.pdb

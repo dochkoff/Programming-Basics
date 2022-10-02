@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/06_ForLoop_101118/09CleverLily/bin/Debug/09CleverLily.exe
-/Users/Dochkoff/Projects/06_ForLoop_101118/09CleverLily/bin/Debug/09CleverLily.pdb
-/Users/Dochkoff/Projects/06_ForLoop_101118/09CleverLily/obj/x86/Debug/09CleverLily.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/06_ForLoop_101118/09CleverLily/obj/x86/Debug/09CleverLily.exe
-/Users/Dochkoff/Projects/06_ForLoop_101118/09CleverLily/obj/x86/Debug/09CleverLily.pdb

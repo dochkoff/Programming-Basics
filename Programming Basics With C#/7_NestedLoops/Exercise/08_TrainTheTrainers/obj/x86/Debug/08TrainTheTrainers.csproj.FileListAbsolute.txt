@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/07_NestedLoops_HW/08TrainTheTrainers/bin/Debug/08TrainTheTrainers.exe
-/Users/Dochkoff/Projects/07_NestedLoops_HW/08TrainTheTrainers/bin/Debug/08TrainTheTrainers.pdb
-/Users/Dochkoff/Projects/07_NestedLoops_HW/08TrainTheTrainers/obj/x86/Debug/08TrainTheTrainers.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/07_NestedLoops_HW/08TrainTheTrainers/obj/x86/Debug/08TrainTheTrainers.exe
-/Users/Dochkoff/Projects/07_NestedLoops_HW/08TrainTheTrainers/obj/x86/Debug/08TrainTheTrainers.pdb

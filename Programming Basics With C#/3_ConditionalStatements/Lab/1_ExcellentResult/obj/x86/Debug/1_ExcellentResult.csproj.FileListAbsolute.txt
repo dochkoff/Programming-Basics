@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Lab/1_ExcellentResult/bin/Debug/Lab3.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Lab/1_ExcellentResult/bin/Debug/Lab3.pdb
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Lab/1_ExcellentResult/obj/x86/Debug/1_ExcellentResult.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Lab/1_ExcellentResult/obj/x86/Debug/Lab3.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/3_ConditionalStatements/Lab/1_ExcellentResult/obj/x86/Debug/Lab3.pdb

@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Lab/08_CookieFactory/bin/Debug/08CookieFactory.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Lab/08_CookieFactory/bin/Debug/08CookieFactory.pdb
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Lab/08_CookieFactory/obj/x86/Debug/08_CookieFactory.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Lab/08_CookieFactory/obj/x86/Debug/08CookieFactory.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/7_NestedLoops/Lab/08_CookieFactory/obj/x86/Debug/08CookieFactory.pdb

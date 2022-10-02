@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise03CurrencyConverter/bin/Debug/Exercise03CurrencyConverter.exe
-/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise03CurrencyConverter/bin/Debug/Exercise03CurrencyConverter.pdb
-/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise03CurrencyConverter/obj/x86/Debug/Exercise03CurrencyConverter.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise03CurrencyConverter/obj/x86/Debug/Exercise03CurrencyConverter.exe
-/Users/Dochkoff/Projects/GitHub/Programming Basics With C#/2_SimpleOperationsAndCalculations/Exercise/Exercise03CurrencyConverter/obj/x86/Debug/Exercise03CurrencyConverter.pdb

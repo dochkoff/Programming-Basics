@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/07_NestedLoops_171118/06Travelling/bin/Debug/06Travelling.exe
-/Users/Dochkoff/Projects/07_NestedLoops_171118/06Travelling/bin/Debug/06Travelling.pdb
-/Users/Dochkoff/Projects/07_NestedLoops_171118/06Travelling/obj/x86/Debug/06Travelling.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/07_NestedLoops_171118/06Travelling/obj/x86/Debug/06Travelling.exe
-/Users/Dochkoff/Projects/07_NestedLoops_171118/06Travelling/obj/x86/Debug/06Travelling.pdb

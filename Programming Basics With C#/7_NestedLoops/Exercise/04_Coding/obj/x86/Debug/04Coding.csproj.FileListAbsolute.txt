@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/07_NestedLoops_HW/04Coding/bin/Debug/04Coding.exe
-/Users/Dochkoff/Projects/07_NestedLoops_HW/04Coding/bin/Debug/04Coding.pdb
-/Users/Dochkoff/Projects/07_NestedLoops_HW/04Coding/obj/x86/Debug/04Coding.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/07_NestedLoops_HW/04Coding/obj/x86/Debug/04Coding.exe
-/Users/Dochkoff/Projects/07_NestedLoops_HW/04Coding/obj/x86/Debug/04Coding.pdb

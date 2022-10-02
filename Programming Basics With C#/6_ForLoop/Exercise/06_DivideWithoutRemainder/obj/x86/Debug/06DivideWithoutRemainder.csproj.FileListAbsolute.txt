@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/6_ForLoop_HW/06DivideWithoutRemainder/bin/Debug/06DivideWithoutRemainder.exe
-/Users/Dochkoff/Projects/6_ForLoop_HW/06DivideWithoutRemainder/bin/Debug/06DivideWithoutRemainder.pdb
-/Users/Dochkoff/Projects/6_ForLoop_HW/06DivideWithoutRemainder/obj/x86/Debug/06DivideWithoutRemainder.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/6_ForLoop_HW/06DivideWithoutRemainder/obj/x86/Debug/06DivideWithoutRemainder.exe
-/Users/Dochkoff/Projects/6_ForLoop_HW/06DivideWithoutRemainder/obj/x86/Debug/06DivideWithoutRemainder.pdb

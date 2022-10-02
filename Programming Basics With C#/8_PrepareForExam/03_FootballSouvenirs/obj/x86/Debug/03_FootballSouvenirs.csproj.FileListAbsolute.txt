@@ -1,6 +1,0 @@
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/8_PrepareForExam/03_FootballSouvenirs/bin/Debug/03FootballSouvenirs.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/8_PrepareForExam/03_FootballSouvenirs/bin/Debug/03FootballSouvenirs.pdb
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/8_PrepareForExam/03_FootballSouvenirs/obj/x86/Debug/03_FootballSouvenirs.csproj.AssemblyReference.cache
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/8_PrepareForExam/03_FootballSouvenirs/obj/x86/Debug/03_FootballSouvenirs.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/8_PrepareForExam/03_FootballSouvenirs/obj/x86/Debug/03FootballSouvenirs.exe
-/Users/Dochkoff/Projects/GitHub/Programming-Basics/Programming Basics With C#/8_PrepareForExam/03_FootballSouvenirs/obj/x86/Debug/03FootballSouvenirs.pdb

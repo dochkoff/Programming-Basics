@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/06_ForLoop_101118/04MaxNumber/bin/Debug/04MaxNumber.exe
-/Users/Dochkoff/Projects/06_ForLoop_101118/04MaxNumber/bin/Debug/04MaxNumber.pdb
-/Users/Dochkoff/Projects/06_ForLoop_101118/04MaxNumber/obj/x86/Debug/04MaxNumber.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/06_ForLoop_101118/04MaxNumber/obj/x86/Debug/04MaxNumber.exe
-/Users/Dochkoff/Projects/06_ForLoop_101118/04MaxNumber/obj/x86/Debug/04MaxNumber.pdb

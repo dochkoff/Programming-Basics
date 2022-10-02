@@ -1,5 +1,0 @@
-/Users/Dochkoff/Projects/3_ConditionalStatements_HW/05Time_15Minutes/bin/Debug/05Time_15Minutes.exe
-/Users/Dochkoff/Projects/3_ConditionalStatements_HW/05Time_15Minutes/bin/Debug/05Time_15Minutes.pdb
-/Users/Dochkoff/Projects/3_ConditionalStatements_HW/05Time_15Minutes/obj/x86/Debug/05Time_15Minutes.csproj.CoreCompileInputs.cache
-/Users/Dochkoff/Projects/3_ConditionalStatements_HW/05Time_15Minutes/obj/x86/Debug/05Time_15Minutes.exe
-/Users/Dochkoff/Projects/3_ConditionalStatements_HW/05Time_15Minutes/obj/x86/Debug/05Time_15Minutes.pdb
